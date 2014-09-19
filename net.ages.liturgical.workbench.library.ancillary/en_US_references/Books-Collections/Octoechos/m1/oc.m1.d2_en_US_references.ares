@@ -2,7 +2,7 @@ A_Resource_Whose_Name = oc.m1.d2_en_US_references
 
 ocVE.Stichera1.mode = misc_en_US_references.Mode1
 ocVE.Stichera1.melody = he.a.m1_en_US_references.PaneffimoiMartyres.name
-ocVE.Stichera1.text = ""
+ocVE.Stichera1.text = "Cf. Gen 1:1-3, cf. Gen. 2:7."
 
 ocVE.Stichera2.mode = misc_en_US_references.Mode1
 ocVE.Stichera2.melody = he.a.m1_en_US_references.PaneffimoiMartyres.name
@@ -10,7 +10,7 @@ ocVE.Stichera2.text = ""
 
 ocVE.Stichera3.mode = misc_en_US_references.Mode1
 ocVE.Stichera3.melody = he.a.m1_en_US_references.PaneffimoiMartyres.name
-ocVE.Stichera3.text = ""
+ocVE.Stichera3.text = "Matt. 25:10."
 
 ocVE.Stichera4.mode = misc_en_US_references.Mode1
 ocVE.Stichera4.melody = he.a.m1_en_US_references.PaneffimoiMartyres.name
@@ -26,11 +26,11 @@ ocVE.Stichera6.text = ""
 
 ocVE.SticTheotokion.mode = misc_en_US_references.Mode1
 ocVE.SticTheotokion.melody = he.a.m1_en_US_references.PaneffimoiMartyres.name
-ocVE.SticTheotokion.text = ""
+ocVE.SticTheotokion.text = "Cf. Ezekiel 1."
 
 ocVE.Aposticha1.mode = misc_en_US_references.Mode1
 ocVE.Aposticha1.melody = ""
-ocVE.Aposticha1.text = ""
+ocVE.Aposticha1.text = "Matt. 14:28-30."
 
 ocVE.Aposticha2.mode = misc_en_US_references.Mode1
 ocVE.Aposticha2.melody = ""
@@ -50,7 +50,7 @@ ocVE.ApolTheotokionVM.text = ""
 
 ocMA.Kathisma11.mode = misc_en_US_references.Mode1
 ocMA.Kathisma11.melody = ""
-ocMA.Kathisma11.text = "Psalm 50:7, Luke 15:11-24
+ocMA.Kathisma11.text = "Psalm 50:7, Luke 15:11-24"
 "
 
 ocMA.Kathisma12.mode = misc_en_US_references.Mode1
@@ -477,7 +477,7 @@ ocMA.Aposticha1.text = ""
 
 ocMA.Aposticha2.mode = misc_en_US_references.Mode1
 ocMA.Aposticha2.melody = ""
-ocMA.Aposticha2.text = ""
+ocMA.Aposticha2.text = "Matthew 20:1-16."
 
 ocMA.Aposticha3.mode = misc_en_US_references.Mode1
 ocMA.Aposticha3.melody = ""
