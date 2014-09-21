@@ -116,7 +116,9 @@ ocMA.OdeW1C14.text = ""
 ocMA.OdeW1C1T.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW1C1T.ode = misc_en_US_commentary.Ode1
 ocMA.OdeW1C1T.melody = he.h.m1_en_US_commentary.OdinEpinikion.name
-ocMA.OdeW1C1T.text = ""
+ocMA.OdeW1C1T.text = "The throne of the ‘Ancient of Days’ in Daniel (7:9) is described as a ‘throne of fire’, but the allusion here is most probably to Ezekiel 1, the divine Chariot, one of the frequently used types of the Mother of God.
+
+These two words are used together by St Sophronios of Jerusalem with reference to the uniting of the divine and human natures of Christ in the incarnation."
 
 ocMA.OdeW1C21.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW1C21.ode = misc_en_US_commentary.Ode1
@@ -131,7 +133,7 @@ ocMA.OdeW1C22.text = ""
 ocMA.OdeW1C23.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW1C23.ode = misc_en_US_commentary.Ode1
 ocMA.OdeW1C23.melody = he.h.m1_en_US_commentary.OdinEpinikion.name
-ocMA.OdeW1C23.text = ""
+ocMA.OdeW1C23.text = "The idea of the Forerunner preaching to these in Hades is based on the second part of the  so-called Acts of Pilate, also known as the Gospel of Nicodemus, which was originally a separate work on the Descent of Christ into Hell (1 Peter 3:19) and probably dates from the fifth or sixth century. In this account a great light fills Hades at midnight, to the joy of the Patriarchs and Prophets. Then John the Baptist, who is described as ‘an ascetic from the wilderness’, comes forward and tells them of his ministry and that Jesus himself is about to enter Hades."
 
 ocMA.OdeW1C2T.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW1C2T.ode = misc_en_US_commentary.Ode1
@@ -146,7 +148,7 @@ ocMA.OdeW3C1H.text = he.h.m1_en_US_commentary.LithonOnApedokimasan.text
 ocMA.OdeW3C11.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW3C11.ode = misc_en_US_commentary.Ode3
 ocMA.OdeW3C11.melody = he.h.m1_en_US_commentary.LithonOnApedokimasan.name
-ocMA.OdeW3C11.text = ""
+ocMA.OdeW3C11.text = "There is play in Greek on ‘deformity’ [Âmorfía] and ‘beauty of form’ [eÛmorfía]."
 
 ocMA.OdeW3C12.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW3C12.ode = misc_en_US_commentary.Ode3
@@ -196,7 +198,7 @@ ocMA.OdeW4C1H.text = he.h.m1_en_US_commentary.EnPnevmatiProvlepon.text
 ocMA.OdeW4C11.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW4C11.ode = misc_en_US_commentary.Ode4
 ocMA.OdeW4C11.melody = he.h.m1_en_US_commentary.EnPnevmatiProvlepon.name
-ocMA.OdeW4C11.text = ""
+ocMA.OdeW4C11.text = "The play on words is difficult to render in English. The word in Greek also means ‘to be sunk’ or ‘submerged’."
 
 ocMA.OdeW4C12.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW4C12.ode = misc_en_US_commentary.Ode4
@@ -221,12 +223,12 @@ ocMA.OdeW4C1T.text = ""
 ocMA.OdeW4C21.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW4C21.ode = misc_en_US_commentary.Ode4
 ocMA.OdeW4C21.melody = he.h.m1_en_US_commentary.EnPnevmatiProvlepon.name
-ocMA.OdeW4C21.text = ""
+ocMA.OdeW4C21.text = "A word hardly found at all  in classical Greek, but frequent in the Fathers. It occurs some dozen times in the Old Testament, while in the New, apart from Luke 12:23,  it is only found in St Matthew’s Gospel, seven times. He uses it for St John the Baptist’s ‘clothing of camel’s hair’ and for the ‘wedding garment’ in the parable of the royal marriage feast."
 
 ocMA.OdeW4C22.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW4C22.ode = misc_en_US_commentary.Ode4
 ocMA.OdeW4C22.melody = he.h.m1_en_US_commentary.EnPnevmatiProvlepon.name
-ocMA.OdeW4C22.text = ""
+ocMA.OdeW4C22.text = "As Faustus says in Marlowe’s play, one drop, even half a drop of Christ’s blood could save him. St Romanos has a similar passage in the final strophe of his Kontakion on All Martyrs: μικρὸν σταγόνα ἐκ τοῦ πνεύματος ὥσπερ ὄμβρον κατάπεμψον, δέομαι, ‘A small drop of your spirit send down like rain, I beg’. A homily on the Pharisee and the Harlot attributed to St Kohn Chrysostom speaks of δικαιοσύνης σταγόνα τινά, ‘a drop of justice’. The Greek Ephrem has a number of similar expressions."
 
 ocMA.OdeW4C23.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW4C23.ode = misc_en_US_commentary.Ode4
@@ -256,12 +258,14 @@ ocMA.OdeW5C12.text = ""
 ocMA.OdeW5C13.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW5C13.ode = misc_en_US_commentary.Ode5
 ocMA.OdeW5C13.melody = he.h.m1_en_US_commentary.TinSinEirinin.name
-ocMA.OdeW5C13.text = ""
+ocMA.OdeW5C13.text = "The word translated ‘beacons’ only occurs in the Old Testament at Genesis 1:14, where it refers to the sun and moon, and at Daniel 12: 3, where it is of the heavenly bodies in general as a simile of ‘those with understanding’. It is the latter passage that the poet has in mind. The Martyrs are like the ‘fixed stars’, not the wandering planets. Our Lord, echoing Daniel, compares the just to the sun at Matthew 13:43. There is a play in Greek on ÂplaneîV, ‘unwandering’, ‘fixed’ and plánh in the next phrase, meaning ‘wandering’, and hence ‘error’.
+
+The image changes to that of sacred processions, lighted by torches."
 
 ocMA.OdeW5C14.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW5C14.ode = misc_en_US_commentary.Ode5
 ocMA.OdeW5C14.melody = he.h.m1_en_US_commentary.TinSinEirinin.name
-ocMA.OdeW5C14.text = ""
+ocMA.OdeW5C14.text = "A difficult troparion. The word literally means ‘rolled’. It is not common in Greek, and only occurs eleven times in the Old Testament. Its meaning here is unclear. Only two passages may give a clue. Amos 2:13 in Hebrew speaks of a wagon that is ‘crushed’ under the weight of the sheaves with which it is loaded. The Greek here has ‘is rolled’. Zachary 9:16 in Greek, followed by the Slavonic, has the mysterious sentence, ‘And the Lord will save them in that day, his people like sheep, because holy stones are rolled upon the ground’."
 
 ocMA.OdeW5C1T.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW5C1T.ode = misc_en_US_commentary.Ode5
@@ -281,7 +285,7 @@ ocMA.OdeW5C22.text = ""
 ocMA.OdeW5C23.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW5C23.ode = misc_en_US_commentary.Ode5
 ocMA.OdeW5C23.melody = he.h.m1_en_US_commentary.TinSinEirinin.name
-ocMA.OdeW5C23.text = ""
+ocMA.OdeW5C23.text = "Cf. the earlier note on Ode 1 of this Canon, 3rd Troparion."
 
 ocMA.OdeW5C2T.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW5C2T.ode = misc_en_US_commentary.Ode5
@@ -311,7 +315,7 @@ ocMA.OdeW6C13.text = ""
 ocMA.OdeW6C14.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW6C14.ode = misc_en_US_commentary.Ode6
 ocMA.OdeW6C14.melody = he.h.m1_en_US_commentary.TonProfitinIonan.name
-ocMA.OdeW6C14.text = ""
+ocMA.OdeW6C14.text = "This word, diekcúsiV, is unattested in classical Greek and only cited in Lampe from Migne’s text of George of Pisidia’s Hexaemeron, where the critical edition reads the more usual word prócusiV."
 
 ocMA.OdeW6C1T.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW6C1T.ode = misc_en_US_commentary.Ode6
@@ -326,7 +330,7 @@ ocMA.OdeW6C21.text = ""
 ocMA.OdeW6C22.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW6C22.ode = misc_en_US_commentary.Ode6
 ocMA.OdeW6C22.melody = he.h.m1_en_US_commentary.TonProfitinIonan.name
-ocMA.OdeW6C22.text = ""
+ocMA.OdeW6C22.text = "The sense of this troparion is not clear. In the Fathers ‘the abyss’ usually refers to Hades and is pejorative. The word occurs in the 6th Ode, ‘the final abyss encircled me’(Jonas 3:6).  The verb katadúw can be either transitive or intransitive, but the intransitive sense, ‘to descend into’, followed by an accusative seems to be limited to Homer. The 1st Aorist, used here, is commonly used transitively. The meaning could possibly be that John ‘plunged the Abyss (i.e. Christ) in the streams’, since the verb is used regularly of Baptism, and in Ode 8 we have exactly the same word in the clause, ‘you plunged Christ’s head in the waters’. On the other hand, although the word ‘Abyss’ is used positively of ‘the abyss of God’s wisdom‘, it does not seem to be used as an image of Christ."
 
 ocMA.OdeW6C23.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW6C23.ode = misc_en_US_commentary.Ode6
@@ -351,7 +355,7 @@ ocMA.OdeW7C11.text = ""
 ocMA.OdeW7C12.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW7C12.ode = misc_en_US_commentary.Ode7
 ocMA.OdeW7C12.melody = he.h.m1_en_US_commentary.TousEnKaminoPaidas.name
-ocMA.OdeW7C12.text = ""
+ocMA.OdeW7C12.text = "This troparion plays on the word lógoV, ‘word’. In Greek ‘rational’ and ‘irrational’ are logikóV and ÁlogoV and ‘word’ is lógoV."
 
 ocMA.OdeW7C13.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW7C13.ode = misc_en_US_commentary.Ode7
@@ -361,7 +365,7 @@ ocMA.OdeW7C13.text = ""
 ocMA.OdeW7C14.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW7C14.ode = misc_en_US_commentary.Ode7
 ocMA.OdeW7C14.melody = he.h.m1_en_US_commentary.TousEnKaminoPaidas.name
-ocMA.OdeW7C14.text = ""
+ocMA.OdeW7C14.text = "Cf. Isaias 57:15, ‘[t]he Lord Most High, resting in the holies’. The Greek is probably neuter and means ‘in the holy place’ (cf. Psalm 133:2), but it could also be masculine and mean ‘among the saints’. The poet here deliberately plays on this ambiguity."
 
 ocMA.OdeW7C1T.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW7C1T.ode = misc_en_US_commentary.Ode7
@@ -381,7 +385,7 @@ ocMA.OdeW7C22.text = ""
 ocMA.OdeW7C23.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW7C23.ode = misc_en_US_commentary.Ode7
 ocMA.OdeW7C23.melody = he.h.m1_en_US_commentary.TousEnKaminoPaidas.name
-ocMA.OdeW7C23.text = ""
+ocMA.OdeW7C23.text = "Cf. Matt. 7:13-14, though in the Gospel it the ‘gate’ that is ‘narrow’, the word used here. The ‘road’ is ‘constricted’."
 
 ocMA.OdeW7C2Tr.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW7C2Tr.ode = misc_en_US_commentary.Ode7
@@ -406,7 +410,9 @@ ocMA.OdeW8C11.text = ""
 ocMA.OdeW8C12.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW8C12.ode = misc_en_US_commentary.Ode8
 ocMA.OdeW8C12.melody = he.h.m1_en_US_commentary.OnFrittousinAngeloi.name
-ocMA.OdeW8C12.text = ""
+ocMA.OdeW8C12.text = "The poet, like the Creed, uses the present participle, ‘is coming’, not a future. The Latin uses the future ‘will come’, and this has influenced most, but not all, English versions of the Creed.
+
+‘Gehenna’ occurs in the Bible twelve times, ten of them in St Matthew, who uses the expression ‘Gehenna of fire’ (5:22, 18:19. James 3:6 also speaks of the tongue being ‘set on fire by Gehenna’), rather than the one used here."
 
 ocMA.OdeW8C13.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW8C13.ode = misc_en_US_commentary.Ode8
@@ -421,7 +427,7 @@ ocMA.OdeW8C14.text = ""
 ocMA.OdeW8C1T.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW8C1T.ode = misc_en_US_commentary.Ode8
 ocMA.OdeW8C1T.melody = he.h.m1_en_US_commentary.OnFrittousinAngeloi.name
-ocMA.OdeW8C1T.text = ""
+ocMA.OdeW8C1T.text = "This title for God, which is found in the Fathers and the liturgical texts, has its origin in Genesis 2:2, where the cognate verb is used, ‘and the Lord God planted a paradise in Eden’."
 
 ocMA.OdeW8C21.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW8C21.ode = misc_en_US_commentary.Ode8
@@ -431,7 +437,7 @@ ocMA.OdeW8C21.text = ""
 ocMA.OdeW8C22.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW8C22.ode = misc_en_US_commentary.Ode8
 ocMA.OdeW8C22.melody = he.h.m1_en_US_commentary.TonTousYmnologousEnKamino.name
-ocMA.OdeW8C22.text = ""
+ocMA.OdeW8C22.text = "The original LXX has only this title, the others were added later, to bring the Greek into line with the Hebrew. There is no ‘Angel’ in Hebrew."
 
 ocMA.OdeW8C23.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW8C23.ode = misc_en_US_commentary.Ode8
@@ -461,7 +467,7 @@ ocMA.OdeW9C11.text = ""
 ocMA.OdeW9C12.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW9C12.ode = misc_en_US_commentary.Ode9
 ocMA.OdeW9C12.melody = he.h.m1_en_US_commentary.TinFotoforonNefelin.name
-ocMA.OdeW9C12.text = ""
+ocMA.OdeW9C12.text = "It is interesting to notice that four of these five well known characters are found only in St Luke’s Gospel."
 
 ocMA.OdeW9C13.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW9C13.ode = misc_en_US_commentary.Ode9
@@ -476,7 +482,7 @@ ocMA.OdeW9C14.text = ""
 ocMA.OdeW9C1T.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW9C1T.ode = misc_en_US_commentary.Ode9
 ocMA.OdeW9C1T.melody = he.h.m1_en_US_commentary.TinFotoforonNefelin.name
-ocMA.OdeW9C1T.text = ""
+ocMA.OdeW9C1T.text = "The allusions to the rising sun in this and the preceding troparion refer to Luke 1:78-9, the Canticle of Zachary forming the second part of the 9th biblical Ode."
 
 ocMA.OdeW9C21.mode = misc_en_US_commentary.Mode1
 ocMA.OdeW9C21.ode = misc_en_US_commentary.Ode9
