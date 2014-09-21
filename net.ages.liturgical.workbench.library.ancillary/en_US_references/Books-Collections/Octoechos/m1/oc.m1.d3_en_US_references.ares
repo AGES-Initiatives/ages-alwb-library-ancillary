@@ -10,7 +10,7 @@ ocVE.Stichera2.text = ""
 
 ocVE.Stichera3.mode = misc_en_US_references.Mode1
 ocVE.Stichera3.melody = he.a.m1_en_US_references.TonOuranionTagmaton.name
-ocVE.Stichera3.text = ""
+ocVE.Stichera3.text = "John 1:29, Matt. 11:28-30."
 
 ocVE.Stichera4.mode = misc_en_US_references.Mode1
 ocVE.Stichera4.melody = he.a.m1_en_US_references.PaneffimoiMartyres.name
@@ -22,11 +22,11 @@ ocVE.Stichera5.text = ""
 
 ocVE.Stichera6.mode = misc_en_US_references.Mode1
 ocVE.Stichera6.melody = he.a.m1_en_US_references.PaneffimoiMartyres.name
-ocVE.Stichera6.text = ""
+ocVE.Stichera6.text = "Matt. 3:2."
 
 ocVE.SticTheotokion.mode = misc_en_US_references.Mode1
 ocVE.SticTheotokion.melody = he.a.m1_en_US_references.PaneffimoiMartyres.name
-ocVE.SticTheotokion.text = ""
+ocVE.SticTheotokion.text = "Cf. Nicene Creed."
 
 ocVE.Aposticha1.mode = misc_en_US_references.Mode1
 ocVE.Aposticha1.melody = ""
@@ -121,7 +121,7 @@ ocMA.OdeW1C1T.text = ""
 ocMA.OdeW1C21.mode = misc_en_US_references.Mode1
 ocMA.OdeW1C21.ode = misc_en_US_references.Ode1
 ocMA.OdeW1C21.melody = he.h.m1_en_US_references.OdinEpinikion.name
-ocMA.OdeW1C21.text = ""
+ocMA.OdeW1C21.text = "Cf. John 1:23."
 
 ocMA.OdeW1C22.mode = misc_en_US_references.Mode1
 ocMA.OdeW1C22.ode = misc_en_US_references.Ode1
@@ -151,7 +151,7 @@ ocMA.OdeW3C11.text = ""
 ocMA.OdeW3C12.mode = misc_en_US_references.Mode1
 ocMA.OdeW3C12.ode = misc_en_US_references.Ode3
 ocMA.OdeW3C12.melody = he.h.m1_en_US_references.LithonOnApedokimasan.name
-ocMA.OdeW3C12.text = ""
+ocMA.OdeW3C12.text = "cf. Luk. 15:13."
 
 ocMA.OdeW3C13.mode = misc_en_US_references.Mode1
 ocMA.OdeW3C13.ode = misc_en_US_references.Ode3
@@ -181,12 +181,12 @@ ocMA.OdeW3C22.text = ""
 ocMA.OdeW3C23.mode = misc_en_US_references.Mode1
 ocMA.OdeW3C23.ode = misc_en_US_references.Ode3
 ocMA.OdeW3C23.melody = he.h.m1_en_US_references.LithonOnApedokimasan.name
-ocMA.OdeW3C23.text = ""
+ocMA.OdeW3C23.text = "John 1:29, cf. Ps. 37:5."
 
 ocMA.OdeW3C2T.mode = misc_en_US_references.Mode1
 ocMA.OdeW3C2T.ode = misc_en_US_references.Ode3
 ocMA.OdeW3C2T.melody = he.h.m1_en_US_references.LithonOnApedokimasan.name
-ocMA.OdeW3C2T.text = ""
+ocMA.OdeW3C2T.text = "Matthew 18:8; 25:41."
 
 ocMA.OdeW4C1H.mode = misc_en_US_references.Mode1
 ocMA.OdeW4C1H.ode = misc_en_US_references.Ode4
@@ -196,7 +196,7 @@ ocMA.OdeW4C1H.text = he.h.m1_en_US_references.EnPnevmatiProvlepon.text
 ocMA.OdeW4C11.mode = misc_en_US_references.Mode1
 ocMA.OdeW4C11.ode = misc_en_US_references.Ode4
 ocMA.OdeW4C11.melody = he.h.m1_en_US_references.EnPnevmatiProvlepon.name
-ocMA.OdeW4C11.text = ""
+ocMA.OdeW4C11.text = "Cf. Luke 15:13; 22."
 
 ocMA.OdeW4C12.mode = misc_en_US_references.Mode1
 ocMA.OdeW4C12.ode = misc_en_US_references.Ode4
@@ -231,7 +231,7 @@ ocMA.OdeW4C22.text = ""
 ocMA.OdeW4C23.mode = misc_en_US_references.Mode1
 ocMA.OdeW4C23.ode = misc_en_US_references.Ode4
 ocMA.OdeW4C23.melody = he.h.m1_en_US_references.EnPnevmatiProvlepon.name
-ocMA.OdeW4C23.text = ""
+ocMA.OdeW4C23.text = "Isaias 63:9, Matt. 3:3 (Isaias 40:3)."
 
 ocMA.OdeW4C2T.mode = misc_en_US_references.Mode1
 ocMA.OdeW4C2T.ode = misc_en_US_references.Ode4
@@ -246,12 +246,12 @@ ocMA.OdeW5C1H.text = he.h.m1_en_US_references.TinSinEirinin.text
 ocMA.OdeW5C11.mode = misc_en_US_references.Mode1
 ocMA.OdeW5C11.ode = misc_en_US_references.Ode5
 ocMA.OdeW5C11.melody = he.h.m1_en_US_references.TinSinEirinin.name
-ocMA.OdeW5C11.text = ""
+ocMA.OdeW5C11.text = "Psalm 50:13."
 
 ocMA.OdeW5C12.mode = misc_en_US_references.Mode1
 ocMA.OdeW5C12.ode = misc_en_US_references.Ode5
 ocMA.OdeW5C12.melody = he.h.m1_en_US_references.TinSinEirinin.name
-ocMA.OdeW5C12.text = ""
+ocMA.OdeW5C12.text = "Cf. Luke 18:9-14."
 
 ocMA.OdeW5C13.mode = misc_en_US_references.Mode1
 ocMA.OdeW5C13.ode = misc_en_US_references.Ode5
@@ -286,7 +286,7 @@ ocMA.OdeW5C23.text = ""
 ocMA.OdeW5C2T.mode = misc_en_US_references.Mode1
 ocMA.OdeW5C2T.ode = misc_en_US_references.Ode5
 ocMA.OdeW5C2T.melody = he.h.m1_en_US_references.TinSinEirinin.name
-ocMA.OdeW5C2T.text = ""
+ocMA.OdeW5C2T.text = "Cf. Ps. 44:10, Luke 1:48."
 
 ocMA.OdeW6C1H.mode = misc_en_US_references.Mode1
 ocMA.OdeW6C1H.ode = misc_en_US_references.Ode6
@@ -301,7 +301,7 @@ ocMA.OdeW6C11.text = ""
 ocMA.OdeW6C12.mode = misc_en_US_references.Mode1
 ocMA.OdeW6C12.ode = misc_en_US_references.Ode6
 ocMA.OdeW6C12.melody = he.h.m1_en_US_references.TonProfitinIonan.name
-ocMA.OdeW6C12.text = ""
+ocMA.OdeW6C12.text = "Cf. Jonas 2:7."
 
 ocMA.OdeW6C13.mode = misc_en_US_references.Mode1
 ocMA.OdeW6C13.ode = misc_en_US_references.Ode6
@@ -316,12 +316,12 @@ ocMA.OdeW6C14.text = ""
 ocMA.OdeW6C1T.mode = misc_en_US_references.Mode1
 ocMA.OdeW6C1T.ode = misc_en_US_references.Ode6
 ocMA.OdeW6C1T.melody = he.h.m1_en_US_references.TonProfitinIonan.name
-ocMA.OdeW6C1T.text = ""
+ocMA.OdeW6C1T.text = "Cf. Psalm 131:8."
 
 ocMA.OdeW6C21.mode = misc_en_US_references.Mode1
 ocMA.OdeW6C21.ode = misc_en_US_references.Ode6
 ocMA.OdeW6C21.melody = he.h.m1_en_US_references.TonProfitinIonan.name
-ocMA.OdeW6C21.text = ""
+ocMA.OdeW6C21.text = "Cf. Matt.3:2."
 
 ocMA.OdeW6C22.mode = misc_en_US_references.Mode1
 ocMA.OdeW6C22.ode = misc_en_US_references.Ode6
@@ -361,7 +361,7 @@ ocMA.OdeW7C13.text = ""
 ocMA.OdeW7C14.mode = misc_en_US_references.Mode1
 ocMA.OdeW7C14.ode = misc_en_US_references.Ode7
 ocMA.OdeW7C14.melody = he.h.m1_en_US_references.TousEnKaminoPaidas.name
-ocMA.OdeW7C14.text = ""
+ocMA.OdeW7C14.text = "Cf. John 14:2, Cf. Isaias 57:15."
 
 ocMA.OdeW7C1T.mode = misc_en_US_references.Mode1
 ocMA.OdeW7C1T.ode = misc_en_US_references.Ode7
@@ -371,7 +371,7 @@ ocMA.OdeW7C1T.text = ""
 ocMA.OdeW7C21.mode = misc_en_US_references.Mode1
 ocMA.OdeW7C21.ode = misc_en_US_references.Ode7
 ocMA.OdeW7C21.melody = he.h.m1_en_US_references.TousEnKaminoPaidas.name
-ocMA.OdeW7C21.text = ""
+ocMA.OdeW7C21.text = "Cf. Matt. 11:11-15."
 
 ocMA.OdeW7C22.mode = misc_en_US_references.Mode1
 ocMA.OdeW7C22.ode = misc_en_US_references.Ode7
@@ -381,12 +381,12 @@ ocMA.OdeW7C22.text = ""
 ocMA.OdeW7C23.mode = misc_en_US_references.Mode1
 ocMA.OdeW7C23.ode = misc_en_US_references.Ode7
 ocMA.OdeW7C23.melody = he.h.m1_en_US_references.TousEnKaminoPaidas.name
-ocMA.OdeW7C23.text = ""
+ocMA.OdeW7C23.text = "Cf. Matt. 7:13-14, cf. Pss. 17:20; 117:5; 118:45."
 
 ocMA.OdeW7C2Tr.mode = misc_en_US_references.Mode1
 ocMA.OdeW7C2Tr.ode = misc_en_US_references.Ode7
 ocMA.OdeW7C2Tr.melody = he.h.m1_en_US_references.TousEnKaminoPaidas.name
-ocMA.OdeW7C2Tr.text = ""
+ocMA.OdeW7C2Tr.text = "Ps. 50:12."
 
 ocMA.OdeW7C2T.mode = misc_en_US_references.Mode1
 ocMA.OdeW7C2T.ode = misc_en_US_references.Ode7
@@ -401,12 +401,12 @@ ocMA.OdeW8C1H.text = he.h.m1_en_US_references.OnFrittousinAngeloi.text
 ocMA.OdeW8C11.mode = misc_en_US_references.Mode1
 ocMA.OdeW8C11.ode = misc_en_US_references.Ode8
 ocMA.OdeW8C11.melody = he.h.m1_en_US_references.OnFrittousinAngeloi.name
-ocMA.OdeW8C11.text = ""
+ocMA.OdeW8C11.text = "Cf. Genesis 3:1-7."
 
 ocMA.OdeW8C12.mode = misc_en_US_references.Mode1
 ocMA.OdeW8C12.ode = misc_en_US_references.Ode8
 ocMA.OdeW8C12.melody = he.h.m1_en_US_references.OnFrittousinAngeloi.name
-ocMA.OdeW8C12.text = ""
+ocMA.OdeW8C12.text = "Cf. the Nicene Creed, cf. Matthew 25:41."
 
 ocMA.OdeW8C13.mode = misc_en_US_references.Mode1
 ocMA.OdeW8C13.ode = misc_en_US_references.Ode8
@@ -421,7 +421,7 @@ ocMA.OdeW8C14.text = ""
 ocMA.OdeW8C1T.mode = misc_en_US_references.Mode1
 ocMA.OdeW8C1T.ode = misc_en_US_references.Ode8
 ocMA.OdeW8C1T.melody = he.h.m1_en_US_references.OnFrittousinAngeloi.name
-ocMA.OdeW8C1T.text = ""
+ocMA.OdeW8C1T.text = "Cf. Song of Songs 2:1."
 
 ocMA.OdeW8C21.mode = misc_en_US_references.Mode1
 ocMA.OdeW8C21.ode = misc_en_US_references.Ode8
@@ -431,7 +431,7 @@ ocMA.OdeW8C21.text = ""
 ocMA.OdeW8C22.mode = misc_en_US_references.Mode1
 ocMA.OdeW8C22.ode = misc_en_US_references.Ode8
 ocMA.OdeW8C22.melody = he.h.m1_en_US_references.TonTousYmnologousEnKamino.name
-ocMA.OdeW8C22.text = ""
+ocMA.OdeW8C22.text = "Isaias 9:5."
 
 ocMA.OdeW8C23.mode = misc_en_US_references.Mode1
 ocMA.OdeW8C23.ode = misc_en_US_references.Ode8
@@ -446,7 +446,7 @@ ocMA.OdeW8C24.text = ""
 ocMA.OdeW8C2T.mode = misc_en_US_references.Mode1
 ocMA.OdeW8C2T.ode = misc_en_US_references.Ode8
 ocMA.OdeW8C2T.melody = he.h.m1_en_US_references.TonTousYmnologousEnKamino.name
-ocMA.OdeW8C2T.text = ""
+ocMA.OdeW8C2T.text = "Cf. Mat. 8:12, Mat. 8:12, Mark 9:48."
 
 ocMA.OdeW9C1H.mode = misc_en_US_references.Mode1
 ocMA.OdeW9C1H.ode = misc_en_US_references.Ode9
@@ -461,7 +461,7 @@ ocMA.OdeW9C11.text = ""
 ocMA.OdeW9C12.mode = misc_en_US_references.Mode1
 ocMA.OdeW9C12.ode = misc_en_US_references.Ode9
 ocMA.OdeW9C12.melody = he.h.m1_en_US_references.TinFotoforonNefelin.name
-ocMA.OdeW9C12.text = ""
+ocMA.OdeW9C12.text = "Cf. Luke 18:9-14; 7:36-50; 23:39-43; 15:11-32, Matthew 15:21-28."
 
 ocMA.OdeW9C13.mode = misc_en_US_references.Mode1
 ocMA.OdeW9C13.ode = misc_en_US_references.Ode9
@@ -501,7 +501,7 @@ ocMA.OdeW9C24.text = ""
 ocMA.OdeW9C2T.mode = misc_en_US_references.Mode1
 ocMA.OdeW9C2T.ode = misc_en_US_references.Ode9
 ocMA.OdeW9C2T.melody = he.h.m1_en_US_references.TinFotoforonNefelin.name
-ocMA.OdeW9C2T.text = ""
+ocMA.OdeW9C2T.text = "Cf. Ezekiel 1."
 
 ocMA.Aposticha1.mode = misc_en_US_references.Mode1
 ocMA.Aposticha1.melody = ""
@@ -517,7 +517,7 @@ ocMA.Aposticha3.text = ""
 
 ocMA.AposTheotokion.mode = misc_en_US_references.Mode1
 ocMA.AposTheotokion.melody = he.a.m1_en_US_references.PaneffimoiMartyres.name
-ocMA.AposTheotokion.text = ""
+ocMA.AposTheotokion.text = "Exodus 3:1-6."
 
 ocMA.ApolTheotokion.mode = misc_en_US_references.Mode1
 ocMA.ApolTheotokion.melody = ""

@@ -78,7 +78,7 @@ EnKaminoPaides.text = ""
 EnPnevmatiProvlepon.name = ""
 EnPnevmatiProvlepon.mode = misc_en_US_commentary.Mode1
 EnPnevmatiProvlepon.ode = misc_en_US_commentary.Ode4
-EnPnevmatiProvlepon.text = ""
+EnPnevmatiProvlepon.text = "The last sentence poses a problem. It is a standard one in both the irmi and troparia of the 4th Ode of many canons, but it is not part of the scriptural text in either Hebrew or Greek, nor are there any variants in the Greek manuscripts."
 EpainonOTheoptis.name = ""
 EpainonOTheoptis.mode = misc_en_US_commentary.Mode1
 EpainonOTheoptis.ode = misc_en_US_commentary.Ode1
@@ -168,7 +168,11 @@ KatilthesEnToisKatotatois.text = ""
 LithonOnApedokimasan.name = ""
 LithonOnApedokimasan.mode = misc_en_US_commentary.Mode1
 LithonOnApedokimasan.ode = misc_en_US_commentary.Ode3
-LithonOnApedokimasan.text = ""
+LithonOnApedokimasan.text = "The sentence is an exact quotation from the lxx.
+
+The opening words of the Song of Anna in the lxx are ‘My heart has been made firm [in Greek Êstereõqh] in the Lord’, and the use of this verb is frequently the only link between the poetic text and the biblical one.
+
+The idea of God’s people being brought out ‘from the nations’ is found a number of times in Ezekiel as well as in Psalm 105:47. It is not used in the NT. The phrase is used frequently in the liturgical texts."
 MegaToMystirion.name = ""
 MegaToMystirion.mode = misc_en_US_commentary.Mode1
 MegaToMystirion.ode = misc_en_US_commentary.Ode4
@@ -381,7 +385,7 @@ TinFotoforonNefelin.text = ""
 TinSinEirinin.name = ""
 TinSinEirinin.mode = misc_en_US_commentary.Mode1
 TinSinEirinin.ode = misc_en_US_commentary.Ode5
-TinSinEirinin.text = ""
+TinSinEirinin.text = "The text  is from the 5th Biblical canticle. The following verse refers to the dead, who will ‘not see life; nor will physicians raise them’."
 TinZoodochonPigin.name = ""
 TinZoodochonPigin.mode = misc_en_US_commentary.Mode1
 TinZoodochonPigin.ode = misc_en_US_commentary.Ode9
