@@ -10,7 +10,7 @@ ocVE.Stichera2.text = ""
 
 ocVE.Stichera3.mode = misc_en_US_references.Mode1
 ocVE.Stichera3.melody = he.a.m1_en_US_references.PaneffimoiMartyres.name
-ocVE.Stichera3.text = ""
+ocVE.Stichera3.text = "Psalm 50:1."
 
 ocVE.Stichera4.mode = misc_en_US_references.Mode1
 ocVE.Stichera4.melody = he.a.m1_en_US_references.TonOuranionTagmaton.name
@@ -26,7 +26,7 @@ ocVE.Stichera6.text = ""
 
 ocVE.SticTheotokion.mode = misc_en_US_references.Mode1
 ocVE.SticTheotokion.melody = he.a.m1_en_US_references.TonOuranionTagmaton.name
-ocVE.SticTheotokion.text = ""
+ocVE.SticTheotokion.text = "Exod 1:26, Eze 44:1-3, Exod. 25:23-30, Exod 25:31-35."
 
 ocVE.Aposticha1.mode = misc_en_US_references.Mode1
 ocVE.Aposticha1.melody = ""
@@ -42,7 +42,7 @@ ocVE.Aposticha3.text = he.a.m1_en_US_references.PaneffimoiMartyres.text
 
 ocVE.AposTheotokion.mode = misc_en_US_references.Mode1
 ocVE.AposTheotokion.melody = he.a.m1_en_US_references.PaneffimoiMartyres.name
-ocVE.AposTheotokion.text = ""
+ocVE.AposTheotokion.text = "Exod 3:2."
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_references.Mode1
 ocVE.ApolTheotokionVM.melody = ""
