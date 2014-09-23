@@ -36,7 +36,7 @@ CheirasEnToLakko.name = ""
 CheirasEnToLakko.mode = misc_en_US_commentary.Mode1
 CheirasEnToLakko.ode = misc_en_US_commentary.Ode8
 CheirasEnToLakko.text = ""
-ChristosGennatai.name = ""
+ChristosGennatai.name = "Unusually the Irmi of this Canon are prosomia to another set of Irmi, in this case those of the first Canon for Christmas. Another example is the set of Irmi by St Theodore the Studite for the Sunday of Cross in Lent, though in this instance there is a clear theological reason for it. The provision of new texts for this Tuesday may be to avoid singing the Christmas Irmi unseasonally, although in current practice only the Irmi of the first canon are used."
 ChristosGennatai.mode = misc_en_US_commentary.Mode1
 ChristosGennatai.ode = misc_en_US_commentary.Ode1
 ChristosGennatai.text = ""
@@ -168,7 +168,7 @@ KatilthesEnToisKatotatois.text = ""
 LithonOnApedokimasan.name = ""
 LithonOnApedokimasan.mode = misc_en_US_commentary.Mode1
 LithonOnApedokimasan.ode = misc_en_US_commentary.Ode3
-LithonOnApedokimasan.text = "The sentence is an exact quotation from the lxx.
+LithonOnApedokimasan.text = "The sentence is an exact quotation from the lxx."
 
 The opening words of the Song of Anna in the lxx are ‘My heart has been made firm [in Greek Êstereõqh] in the Lord’, and the use of this verb is frequently the only link between the poetic text and the biblical one.
 
