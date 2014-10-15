@@ -58,7 +58,6 @@ Kelefson = ""
 
 KelefsonDespota = ""
 
-
 OTheosOiktirisai.text = ""
 
 PantoteNyn.text = ""
@@ -661,6 +660,10 @@ verseP_Panteleimon.text = ""
 verse_Righteous.text = ""
 
 verseP_Righteous.text = ""
+
+verse_SoulSaturday.text = ""
+
+verseP_SoulSaturday.text = ""
 
 verse_Theotokos.text = ""
 
