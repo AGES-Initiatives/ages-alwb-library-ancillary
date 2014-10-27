@@ -33,7 +33,7 @@ meVE.Stichera8910.text = "" // for media
 meVE.SticGlory.poet = poets_en_US_references.Anatoliou
 meVE.SticGlory.mode = misc_en_US_references.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Psalm 45:5"
+meVE.SticGlory.text = "Psalm 45:5. "
 
 meVE.SticBoth.poet = poets_en_US_references.Vyzantiou
 meVE.SticBoth.mode = misc_en_US_references.Mode2
