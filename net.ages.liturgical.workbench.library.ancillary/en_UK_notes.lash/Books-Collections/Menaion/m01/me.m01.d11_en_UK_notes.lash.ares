@@ -42,7 +42,7 @@ meVE.SticBoth.text = me.m01.d06_en_UK_notes.lash.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = misc_en_UK_notes.lash.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_UK_notes.lash.EdokasSimeiosin.name
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = "The three prosomia in Tone 4 look like part of an acrostic poem by Joseph the Hymnographer and are part of dialogue between Christ and St John the Baptist. I have included the Greek initial letters to indicate this. There is a similar problem in the Aposticha of Lauds on the 4th and 5th of January, where a poem of Joseph has been dismembered and rearranged."
 
 meVE.ApostichaVerse2.text = ""
 
