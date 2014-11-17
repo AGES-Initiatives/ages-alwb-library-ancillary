@@ -46,7 +46,7 @@ ocVE.Aposticha4.text = ""
 
 ocVE.AposTheotokion.mode = misc_en_US_commentary.Mode1
 ocVE.AposTheotokion.melody = ""
-ocVE.AposTheotokion.text = "Cf. Eze 3:12, where the words, ‘Blessed be the glory of the Lord, from his place’ occur, when the divine Chariot, also used as a type of the Mother of God, at the end of his initial vision and call."
+ocVE.AposTheotokion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_commentary.Mode1
 ocVE.ApolTheotokionVM.melody = he.a.m1_en_US_commentary.TouLithouSfragisthentos.name
