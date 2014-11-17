@@ -63,7 +63,7 @@ EkNyktosErgon3.text = ""
 EkNyktosErgon4.text = ""
 EkNyktosErgon5.text = ""
 
-EkNyktosOrthrizontes.name = ""
+EkNyktosOrthrizontes.name = "Missing. \"A different Irmos.\""
 EkNyktosOrthrizontes.mode = misc_en_UK_notes.lash.Mode1
 EkNyktosOrthrizontes.ode = misc_en_UK_notes.lash.Ode5
 EkNyktosOrthrizontes.text = ""
