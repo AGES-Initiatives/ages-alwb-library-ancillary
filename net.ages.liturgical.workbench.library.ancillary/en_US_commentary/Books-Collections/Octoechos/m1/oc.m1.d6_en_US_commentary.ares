@@ -2,7 +2,7 @@ A_Resource_Whose_Name = oc.m1.d6_en_US_commentary
 
 ocVE.Stichera1.mode = misc_en_US_commentary.Mode1
 ocVE.Stichera1.melody = he.a.m1_en_US_commentary.TonOuranionTagmaton.name
-ocVE.Stichera1.text = "Psalm 150:6. The only occurrence of the phrase in the Bible.
+ocVE.Stichera1.text = ""
 
 Cf. Tobit 13:13, following the text of the Codex Sinaiticus, which is followed by some modern translations."
 
