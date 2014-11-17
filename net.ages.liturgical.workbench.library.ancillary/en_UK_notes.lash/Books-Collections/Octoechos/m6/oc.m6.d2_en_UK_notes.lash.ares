@@ -41,7 +41,7 @@ ocVE.Aposticha3.melody  = ""
 ocVE.Aposticha3.text = ""
 
 ocVE.AposTheotokion.mode = misc_en_UK_notes.lash.Mode6
-ocVE.AposTheotokion.melody  = ""
+ocVE.AposTheotokion.melody  = misc_en_UK_notes.lash.Automelon
 ocVE.AposTheotokion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_notes.lash.Mode6
@@ -501,7 +501,7 @@ ocLI.BeatitudesBoth.text = ""
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_en_UK_notes.lash.Mode6
-octrVE.Stichera1.melody  = ""
+octrVE.Stichera1.melody  = he.a.m6_en_UK_notes.lash.TriimerosAnestis.name
 octrVE.Stichera1.text = ocVE.Aposticha1.text
 
 octrVE.Stichera2.mode = misc_en_UK_notes.lash.Mode6
