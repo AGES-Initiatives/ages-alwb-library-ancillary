@@ -14,7 +14,7 @@ ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = misc_en_UK_notes.lash.Mode2
 ocVE.Stichera4.melody = he.a.m2_en_UK_notes.lash.OteEkTouXylou.name
-ocVE.Stichera4.text = "[note] Gabriel is ruluer of grace: Cf. John 1:17 and Luke 1:28 ‘Hail, full of grace’."
+ocVE.Stichera4.text = ""
 
 ocVE.Stichera5.mode = misc_en_UK_notes.lash.Mode2
 ocVE.Stichera5.melody = he.a.m2_en_UK_notes.lash.OteEkTouXylou.name
@@ -26,7 +26,7 @@ ocVE.Stichera6.text = ""
 
 ocVE.SticTheotokion.mode = misc_en_UK_notes.lash.Mode2
 ocVE.SticTheotokion.melody = he.a.m2_en_UK_notes.lash.OteEkTouXylou.name
-ocVE.SticTheotokion.text = "Missing."
+ocVE.SticTheotokion.text = ""
 
 ocVE.Aposticha1.mode = misc_en_UK_notes.lash.Mode2
 ocVE.Aposticha1.melody = ""
@@ -38,7 +38,7 @@ ocVE.Aposticha2.text = ""
 
 ocVE.Aposticha3.mode = misc_en_UK_notes.lash.Mode2
 ocVE.Aposticha3.melody = ""
-ocVE.Aposticha3.text = ""
+ocVE.Aposticha3.text = "Another translation: The Champions did not long for earthly pleasure and so were found worthy of heavenly good things, and the have become fellow citizens of the Angels. Lord, at their prayers have mercy and save us."
 
 ocVE.AposTheotokion.mode = misc_en_UK_notes.lash.Mode2
 ocVE.AposTheotokion.melody = ""
@@ -487,7 +487,7 @@ ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_UK_notes.lash.Mode2
 ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.text = "Missing."
+ocMA.ApolTheotokion.text = ""
 
 ocLI.Beatitudes1.mode = misc_en_UK_notes.lash.Mode2
 ocLI.Beatitudes1.melody = ""
@@ -495,23 +495,23 @@ ocLI.Beatitudes1.text = oc.m2.d1_en_UK_notes.lash.ocLI.Beatitudes1.text
 
 ocLI.Beatitudes2.mode = misc_en_UK_notes.lash.Mode2
 ocLI.Beatitudes2.melody = ""
-ocLI.Beatitudes2.text = "Missing."
+ocLI.Beatitudes2.text = ""
 
 ocLI.Beatitudes3.mode = misc_en_UK_notes.lash.Mode2
 ocLI.Beatitudes3.melody = ""
-ocLI.Beatitudes3.text = "Missing."
+ocLI.Beatitudes3.text = ""
 
 ocLI.Beatitudes4.mode = misc_en_UK_notes.lash.Mode2
 ocLI.Beatitudes4.melody = ""
-ocLI.Beatitudes4.text = "Missing."
+ocLI.Beatitudes4.text = ""
 
 ocLI.BeatitudesGlory.mode = misc_en_UK_notes.lash.Mode2
 ocLI.BeatitudesGlory.melody = ""
-ocLI.BeatitudesGlory.text = "Missing."
+ocLI.BeatitudesGlory.text = ""
 
 ocLI.BeatitudesBoth.mode = misc_en_UK_notes.lash.Mode2
 ocLI.BeatitudesBoth.melody = ""
-ocLI.BeatitudesBoth.text = "Missing."
+ocLI.BeatitudesBoth.text = ""
 
 //Octoechos in Triodion
 
@@ -532,13 +532,13 @@ octrVE.Stichera4.melody = ""
 octrVE.Stichera4.text = ocMA.Aposticha2.text
 
 octrMA.Triadic1.mode = misc_en_UK_notes.lash.Mode2
-octrMA.Triadic1.text = "Missing."
+octrMA.Triadic1.text = ""
 
 octrMA.Triadic2.mode = misc_en_UK_notes.lash.Mode2
-octrMA.Triadic2.text = "Missing."
+octrMA.Triadic2.text = ""
 
 octrMA.Triadic3.mode = misc_en_UK_notes.lash.Mode2
-octrMA.Triadic3.text = "Missing."
+octrMA.Triadic3.text = ""
 
 octrMA.Kathisma11.mode = misc_en_UK_notes.lash.Mode2
 octrMA.Kathisma11.melody = ""
@@ -557,4 +557,4 @@ octrMA.Ode7Martyricon.melody = ""
 octrMA.Ode7Martyricon.text = ocMA.Kathisma32.text
 
 octrMA.Photagogic.mode = misc_en_UK_notes.lash.Mode2
-octrMA.Photagogic.text = "Missing."
+octrMA.Photagogic.text = ""

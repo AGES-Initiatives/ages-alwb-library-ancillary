@@ -68,7 +68,7 @@ ocVE.Stichera7.text = ""
 
 ocVE.SticTheotokion.mode = misc_en_UK_notes.lash.Mode2
 ocVE.SticTheotokion.melody = ""
-ocVE.SticTheotokion.text = ""
+ocVE.SticTheotokion.text = "Another translation: The shadow of the law has passed away now that grace has come, for as the Bush in flames was not burned, so as a virgin you bore a child and remained a virgin; instead of a pillar of fire the Sun of justice has dawned, instead of Moses Christ, the salvation of our souls."
 
 ocVE.Aposticha1.mode = misc_en_UK_notes.lash.Mode2
 ocVE.Aposticha1.melody = ""
@@ -99,168 +99,168 @@ ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = ""
 
 ocMO.Poet = poets_en_UK_notes.lash.MitrofanousSmirnis
-ocMO.Acrostic.text = "Missing."
+ocMO.Acrostic.text = ""
 
 ocMO.Ode11.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode11.ode = misc_en_UK_notes.lash.Ode1
 ocMO.Ode11.melody = he.h.m2_en_UK_notes.lash.EnVythoKatestrose.name
-ocMO.Ode11.text = "Missing."
+ocMO.Ode11.text = ""
 
 ocMO.Ode12.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode12.ode = misc_en_UK_notes.lash.Ode1
 ocMO.Ode12.melody = he.h.m2_en_UK_notes.lash.EnVythoKatestrose.name
-ocMO.Ode12.text = "Missing."
+ocMO.Ode12.text = ""
 
 ocMO.Ode13.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode13.ode = misc_en_UK_notes.lash.Ode1
 ocMO.Ode13.melody = he.h.m2_en_UK_notes.lash.EnVythoKatestrose.name
-ocMO.Ode13.text = "Missing."
+ocMO.Ode13.text = ""
 
 ocMO.Ode1T.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode1T.ode = misc_en_UK_notes.lash.Ode1
 ocMO.Ode1T.melody = he.h.m2_en_UK_notes.lash.EnVythoKatestrose.name
-ocMO.Ode1T.text = "Missing."
+ocMO.Ode1T.text = ""
 
 ocMO.Ode31.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode31.ode = misc_en_UK_notes.lash.Ode3
 ocMO.Ode31.melody = he.h.m2_en_UK_notes.lash.EnPetraMeTisPisteos.name
-ocMO.Ode31.text = "Missing."
+ocMO.Ode31.text = ""
 
 ocMO.Ode32.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode32.ode = misc_en_UK_notes.lash.Ode3
 ocMO.Ode32.melody = he.h.m2_en_UK_notes.lash.EnPetraMeTisPisteos.name
-ocMO.Ode32.text = "Missing."
+ocMO.Ode32.text = ""
 
 ocMO.Ode33.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode33.ode = misc_en_UK_notes.lash.Ode3
 ocMO.Ode33.melody = he.h.m2_en_UK_notes.lash.EnPetraMeTisPisteos.name
-ocMO.Ode33.text = "Missing."
+ocMO.Ode33.text = ""
 
 ocMO.Ode3T.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode3T.ode = misc_en_UK_notes.lash.Ode3
 ocMO.Ode3T.melody = he.h.m2_en_UK_notes.lash.EnPetraMeTisPisteos.name
-ocMO.Ode3T.text = "Missing."
+ocMO.Ode3T.text = ""
 
 ocMO.Kathisma11.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Kathisma11.melody = ""
-ocMO.Kathisma11.text = "Missing."
+ocMO.Kathisma11.text = ""
 
 ocMO.Kathisma12.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Kathisma12.melody = ""
-ocMO.Kathisma12.text = "Missing."
+ocMO.Kathisma12.text = ""
 
 ocMO.Ode41.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode41.ode = misc_en_UK_notes.lash.Ode4
 ocMO.Ode41.melody = he.h.m2_en_UK_notes.lash.YmnoSeAkoi.name
-ocMO.Ode41.text = "Missing."
+ocMO.Ode41.text = ""
 
 ocMO.Ode42.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode42.ode = misc_en_UK_notes.lash.Ode4
 ocMO.Ode42.melody = he.h.m2_en_UK_notes.lash.YmnoSeAkoi.name
-ocMO.Ode42.text = "Missing."
+ocMO.Ode42.text = ""
 
 ocMO.Ode43.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode43.ode = misc_en_UK_notes.lash.Ode4
 ocMO.Ode43.melody = he.h.m2_en_UK_notes.lash.YmnoSeAkoi.name
-ocMO.Ode43.text = "Missing."
+ocMO.Ode43.text = ""
 
 ocMO.Ode4T.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode4T.ode = misc_en_UK_notes.lash.Ode4
 ocMO.Ode4T.melody = he.h.m2_en_UK_notes.lash.YmnoSeAkoi.name
-ocMO.Ode4T.text = "Missing."
+ocMO.Ode4T.text = ""
 
 ocMO.Ode51.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode51.ode = misc_en_UK_notes.lash.Ode5
 ocMO.Ode51.melody = he.h.m2_en_UK_notes.lash.OFotismos.name
-ocMO.Ode51.text = "Missing."
+ocMO.Ode51.text = ""
 
 ocMO.Ode52.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode52.ode = misc_en_UK_notes.lash.Ode5
 ocMO.Ode52.melody = he.h.m2_en_UK_notes.lash.OFotismos.name
-ocMO.Ode52.text = "Missing."
+ocMO.Ode52.text = ""
 
 ocMO.Ode53.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode53.ode = misc_en_UK_notes.lash.Ode5
 ocMO.Ode53.melody = he.h.m2_en_UK_notes.lash.OFotismos.name
-ocMO.Ode53.text = "Missing."
+ocMO.Ode53.text = ""
 
 ocMO.Ode5T.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode5T.ode = misc_en_UK_notes.lash.Ode5
 ocMO.Ode5T.melody = he.h.m2_en_UK_notes.lash.OFotismos.name
-ocMO.Ode5T.text = "Missing."
+ocMO.Ode5T.text = ""
 
 ocMO.Ode61.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode61.ode = misc_en_UK_notes.lash.Ode6
 ocMO.Ode61.melody = he.h.m2_en_UK_notes.lash.EnAvyssoPtaismaton.name
-ocMO.Ode61.text = "Missing."
+ocMO.Ode61.text = ""
 
 ocMO.Ode62.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode62.ode = misc_en_UK_notes.lash.Ode6
 ocMO.Ode62.melody = he.h.m2_en_UK_notes.lash.EnAvyssoPtaismaton.name
-ocMO.Ode62.text = "Missing."
+ocMO.Ode62.text = ""
 
 ocMO.Ode6T.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode6T.ode = misc_en_UK_notes.lash.Ode6
 ocMO.Ode6T.melody = he.h.m2_en_UK_notes.lash.EnAvyssoPtaismaton.name
-ocMO.Ode6T.text = "Missing."
+ocMO.Ode6T.text = ""
 
-ocMO.Kathisma21.melody = "Missing."
+ocMO.Kathisma21.melody = ""
 ocMO.Kathisma21.mode = misc_en_UK_notes.lash.Mode2
-ocMO.Kathisma21.text = "Missing."
+ocMO.Kathisma21.text = ""
 
-ocMO.Kathisma22.melody = "Missing."
+ocMO.Kathisma22.melody = ""
 ocMO.Kathisma22.mode = misc_en_UK_notes.lash.Mode2
-ocMO.Kathisma22.text = "Missing."
+ocMO.Kathisma22.text = ""
 
 ocMO.Ode71.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode71.ode = misc_en_UK_notes.lash.Ode7
 ocMO.Ode71.melody = he.h.m2_en_UK_notes.lash.EikonosChrysis.name
-ocMO.Ode71.text = "Missing."
+ocMO.Ode71.text = ""
 
 ocMO.Ode72.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode72.ode = misc_en_UK_notes.lash.Ode7
 ocMO.Ode72.melody = he.h.m2_en_UK_notes.lash.EikonosChrysis.name
-ocMO.Ode72.text = "Missing."
+ocMO.Ode72.text = ""
 
 ocMO.Ode7T.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode7T.ode = misc_en_UK_notes.lash.Ode7
 ocMO.Ode7T.melody = he.h.m2_en_UK_notes.lash.EikonosChrysis.name
-ocMO.Ode7T.text = "Missing."
+ocMO.Ode7T.text = ""
 
 ocMO.Ode81.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode81.ode = misc_en_UK_notes.lash.Ode8
 ocMO.Ode81.melody = he.h.m2_en_UK_notes.lash.IndalmatosChrysou.name
-ocMO.Ode81.text = "Missing."
+ocMO.Ode81.text = ""
 
 ocMO.Ode82.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode82.ode = misc_en_UK_notes.lash.Ode8
 ocMO.Ode82.melody = he.h.m2_en_UK_notes.lash.IndalmatosChrysou.name
-ocMO.Ode82.text = "Missing."
+ocMO.Ode82.text = ""
 
 ocMO.Ode83.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode83.ode = misc_en_UK_notes.lash.Ode8
 ocMO.Ode83.melody = he.h.m2_en_UK_notes.lash.IndalmatosChrysou.name
-ocMO.Ode83.text = "Missing."
+ocMO.Ode83.text = ""
 
 ocMO.Ode91.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode91.ode = misc_en_UK_notes.lash.Ode9
 ocMO.Ode91.melody = he.h.m2_en_UK_notes.lash.ITonProIliouFostira.name
-ocMO.Ode91.text = "Missing."
+ocMO.Ode91.text = ""
 
 ocMO.Ode92.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode92.ode = misc_en_UK_notes.lash.Ode9
 ocMO.Ode92.melody = he.h.m2_en_UK_notes.lash.ITonProIliouFostira.name
-ocMO.Ode92.text = "Missing."
+ocMO.Ode92.text = ""
 
 ocMO.Ode93.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode93.ode = misc_en_UK_notes.lash.Ode9
 ocMO.Ode93.melody = he.h.m2_en_UK_notes.lash.ITonProIliouFostira.name
-ocMO.Ode93.text = "Missing."
+ocMO.Ode93.text = ""
 
 ocMO.Ode9T.mode = misc_en_UK_notes.lash.Mode2
 ocMO.Ode9T.ode = misc_en_UK_notes.lash.Ode9
 ocMO.Ode9T.melody = he.h.m2_en_UK_notes.lash.ITonProIliouFostira.name
-ocMO.Ode9T.text = "Missing."
+ocMO.Ode9T.text = ""
 
 ocMA.GodIsTheLord.mode = misc_en_UK_notes.lash.Mode2
 ocMA.GodIsTheLord.text = ho.s03_en_UK_notes.lash.hoMA.GodIsTheLord.text
@@ -573,7 +573,7 @@ ocMA.OdeS7C1T.text = ""
 
 ocMA.OdeS7C21.mode = misc_en_UK_notes.lash.Mode2
 ocMA.OdeS7C21.ode = misc_en_UK_notes.lash.Ode7
-ocMA.OdeS7C21.melody = ""
+ocMA.OdeS7C21.melody = he.h.m2_en_UK_notes.lash.AntitheonProstagma.name
 ocMA.OdeS7C21.text = ""
 
 ocMA.OdeS7C22.mode = misc_en_UK_notes.lash.Mode2
