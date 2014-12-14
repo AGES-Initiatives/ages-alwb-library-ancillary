@@ -813,7 +813,7 @@ ocMA.ApolTheotokion.text = ""
 
 ocLI.Beatitudes1.mode = misc_en_UK_notes.lash.Mode4
 ocLI.Beatitudes1.melody = ""
-ocLI.Beatitudes1.text = "Another translation: Through a tree Adam became an exile from Paradise; but through the Tree of the Cross the Thief made Paradise his home. For the one through tasting set aside his Master’s commandment, while the other, crucified with him, confessed the hidden God, as he cried: Remember me in your Kingdom."
+ocLI.Beatitudes1.text = "[Another translation:] Through a tree Adam became an exile from Paradise; but through the Tree of the Cross the Thief made Paradise his home. For the one through tasting set aside his Master’s commandment, while the other, crucified with him, confessed the hidden God, as he cried: Remember me in your Kingdom. [Another translation:] Through a tree Adam became an exile from Paradise, but through the tree of the Cross the Thief dwelt in paradise; the one by tasting rejected the commandment of his maker, the other, crucified with him, confessed the hidden God, crying: Remember me in your kingdom."
 
 ocLI.Beatitudes2.mode = misc_en_UK_notes.lash.Mode4
 ocLI.Beatitudes2.melody = ""

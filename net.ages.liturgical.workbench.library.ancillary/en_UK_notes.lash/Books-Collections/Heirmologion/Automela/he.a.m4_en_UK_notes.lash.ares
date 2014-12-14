@@ -14,7 +14,7 @@ EpefanisSimeron.text = ""
 
 IthelonDakrysinExaleipsai.mode = misc_en_UK_notes.lash.Mode4
 IthelonDakrysinExaleipsai.name = ""
-IthelonDakrysinExaleipsai.text = "Another translation: I wanted, Lord, to wipe away the record of my faults with tears, and for the rest of my life to be pleasing to you through repentance; but the enemy deceives me and wars against my soul. O Lord, before I am finally destroyed, save me!"
+IthelonDakrysinExaleipsai.text = ""
 
 KateplagiIosif.mode = misc_en_UK_notes.lash.Mode4
 KateplagiIosif.name = ""
@@ -29,7 +29,7 @@ OExYpsistouKlitheis.name = ""
 OExYpsistouKlitheis.text = ""
 
 OYpsotheisEnToStavro.mode = misc_en_UK_notes.lash.Mode4
-OYpsotheisEnToStavro.name = "Missing."
+OYpsotheisEnToStavro.name = ""
 OYpsotheisEnToStavro.text = ""
 
 OsGennaionEnMartysi.mode = misc_en_UK_notes.lash.Mode4
@@ -37,5 +37,5 @@ OsGennaionEnMartysi.name = ""
 OsGennaionEnMartysi.text = ""
 
 TachyProkatalave.mode = misc_en_UK_notes.lash.Mode4
-TachyProkatalave.name = ""
+TachyProkatalave.name = "[Another translation:] Come swiftly to help us. [Another translation:] Come speedily to help."
 TachyProkatalave.text = ""
