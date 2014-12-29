@@ -1,19 +1,19 @@
 A_Resource_Whose_Name = oc.m6.d1_en_US_commentary
 
-ocVE.GlorySticheraric.mode = misc_en_US_commentary.Mode6 // for mode-specific media
+ocVE.GlorySticheraric.mode = "misc_en_US_commentary.Mode6" // for mode-specific media
 ocVE.GlorySticheraric.text = prayers_en_US_commentary.DoxaPatri.text
 
-ocVE.BothSticheraric.mode = misc_en_US_commentary.Mode6 // for mode-specific media
+ocVE.BothSticheraric.mode = "misc_en_US_commentary.Mode6" // for mode-specific media
 ocVE.BothSticheraric.text = prayers_en_US_commentary.KaiNynKaiAei.text
 
-ocVE.GloryHeirmologic.mode = misc_en_US_commentary.Mode6 // for mode-specific media
+ocVE.GloryHeirmologic.mode = "misc_en_US_commentary.Mode6" // for mode-specific media
 ocVE.GloryHeirmologic.text = prayers_en_US_commentary.DoxaPatri.text
 
-ocVE.BothHeirmologic.mode = misc_en_US_commentary.Mode6 // for mode-specific media
+ocVE.BothHeirmologic.mode = "misc_en_US_commentary.Mode6" // for mode-specific media
 ocVE.BothHeirmologic.text = prayers_en_US_commentary.KaiNynKaiAei.text
 
 ocSV.Dogmatic.mode = misc_en_US_commentary.Mode6
-ocSV.Dogmatic.melody  = ""
+ocSV.Dogmatic.melody = ""
 ocSV.Dogmatic.text = ""
 
 ocSV.Aposticha1.mode = misc_en_US_commentary.Mode6
@@ -29,77 +29,77 @@ ocSV.Aposticha3.melody = he.a.m6_en_US_commentary.OlinApothemenoi.name
 ocSV.Aposticha3.text = ""
 
 ocSV.AposDogmatic.mode = misc_en_US_commentary.Mode6
-ocSV.AposDogmatic.melody  = ""
+ocSV.AposDogmatic.melody = ""
 ocSV.AposDogmatic.text = ""
 
 ocVE.LIHC1.mode = misc_en_US_commentary.Mode6
-ocVE.LIHC1.text = "" //for media
+ocVE.LIHC1.text = "" // for media
 
 ocVE.LIHC2.mode = misc_en_US_commentary.Mode6
-ocVE.LIHC2.text = "" //for media
+ocVE.LIHC2.text = "" // for media
 
 ocVE.Stichera1.mode = misc_en_US_commentary.Mode6
-ocVE.Stichera1.melody  = ""
+ocVE.Stichera1.melody = ""
 ocVE.Stichera1.text = ""
 
 ocVE.Stichera2.mode = misc_en_US_commentary.Mode6
-ocVE.Stichera2.melody  = ""
+ocVE.Stichera2.melody = ""
 ocVE.Stichera2.text = ""
 
 ocVE.Stichera3.mode = misc_en_US_commentary.Mode6
-ocVE.Stichera3.melody  = ""
+ocVE.Stichera3.melody = ""
 ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = misc_en_US_commentary.Mode6
-ocVE.Stichera4.melody  = ""
+ocVE.Stichera4.melody = ""
 ocVE.Stichera4.text = ""
 
 ocVE.Stichera5.mode = misc_en_US_commentary.Mode6
-ocVE.Stichera5.melody  = ""
+ocVE.Stichera5.melody = ""
 ocVE.Stichera5.text = ""
 
 ocVE.Stichera6.mode = misc_en_US_commentary.Mode6
-ocVE.Stichera6.melody  = ""
+ocVE.Stichera6.melody = ""
 ocVE.Stichera6.text = ""
 
 ocVE.Stichera7.mode = misc_en_US_commentary.Mode6
-ocVE.Stichera7.melody  = ""
+ocVE.Stichera7.melody = ""
 ocVE.Stichera7.text = ""
 
 ocVE.SticTheotokion.mode = misc_en_US_commentary.Mode6
-ocVE.SticTheotokion.melody  = ""
+ocVE.SticTheotokion.melody = ""
 ocVE.SticTheotokion.text = ""
 
 ocVE.Aposticha1.mode = misc_en_US_commentary.Mode6
-ocVE.Aposticha1.melody  = ""
+ocVE.Aposticha1.melody = ""
 ocVE.Aposticha1.text = ""
 
 ocVE.Aposticha2.mode = misc_en_US_commentary.Mode6
-ocVE.Aposticha2.melody  = ""
+ocVE.Aposticha2.melody = ""
 ocVE.Aposticha2.text = ""
 
 ocVE.Aposticha3.mode = misc_en_US_commentary.Mode6
-ocVE.Aposticha3.melody  = ""
+ocVE.Aposticha3.melody = ""
 ocVE.Aposticha3.text = ""
 
 ocVE.Aposticha4.mode = misc_en_US_commentary.Mode6
-ocVE.Aposticha4.melody  = ""
+ocVE.Aposticha4.melody = ""
 ocVE.Aposticha4.text = ""
 
 ocVE.AposTheotokion.mode = misc_en_US_commentary.Mode6
-ocVE.AposTheotokion.melody  = ""
+ocVE.AposTheotokion.melody = ""
 
 ocVE.AposTheotokion.text = ""
 
 ocVE.Apolytikion.mode = misc_en_US_commentary.Mode6
-ocVE.Apolytikion.melody  = ""
+ocVE.Apolytikion.melody = ""
 ocVE.Apolytikion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_commentary.Mode6
-ocVE.ApolTheotokionVM.melody  = ""
+ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = ""
 
-ocMO.Poet  = ""
+ocMO.Poet = ""
 ocMO.Acrostic.text = ""
 
 ocMO.Ode11.mode = misc_en_US_commentary.Mode6
@@ -187,7 +187,7 @@ ocMO.Ode53.text = ""
 
 ocMO.Ode5T.mode = misc_en_US_commentary.Mode6
 ocMO.Ode5T.ode = misc_en_US_commentary.Ode5
-ocMO.Ode5T.melody  = ""
+ocMO.Ode5T.melody = ""
 ocMO.Ode5T.text = ""
 
 ocMO.Ode61.mode = misc_en_US_commentary.Mode6
@@ -277,68 +277,68 @@ ocMA.GodIsTheLord.mode = misc_en_US_commentary.Mode6
 ocMA.GodIsTheLord.text = ho.s03_en_US_commentary.hoMA.GodIsTheLord.text
 
 ocMA.Kathisma11.mode = misc_en_US_commentary.Mode6
-ocMA.Kathisma11.melody  = ""
+ocMA.Kathisma11.melody = ""
 ocMA.Kathisma11.text = ""
 
 ocMA.Kathisma12.mode = misc_en_US_commentary.Mode6
-ocMA.Kathisma12.melody  = ""
+ocMA.Kathisma12.melody = ""
 ocMA.Kathisma12.text = ""
 
 ocMA.Kathisma13.mode = misc_en_US_commentary.Mode6
-ocMA.Kathisma13.melody  = ""
+ocMA.Kathisma13.melody = ""
 ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = misc_en_US_commentary.Mode6
-ocMA.Kathisma21.melody  = ""
+ocMA.Kathisma21.melody = ""
 ocMA.Kathisma21.text = ""
 
 ocMA.Kathisma22.mode = misc_en_US_commentary.Mode6
-ocMA.Kathisma22.melody  = ""
+ocMA.Kathisma22.melody = ""
 ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = misc_en_US_commentary.Mode6
-ocMA.Kathisma23.melody  = ""
+ocMA.Kathisma23.melody = ""
 ocMA.Kathisma23.text = ""
 
 ocMA.Hypakoe.mode = misc_en_US_commentary.Mode6
-ocMA.Hypakoe.melody  = ""
+ocMA.Hypakoe.melody = ""
 
 ocMA.Hypakoe.text = ""
 
 ocMA.Antiphon11.mode = misc_en_US_commentary.Mode6
-ocMA.Antiphon11.melody  = ""
+ocMA.Antiphon11.melody = ""
 ocMA.Antiphon11.text = ""
 
 ocMA.Antiphon12.mode = misc_en_US_commentary.Mode6
-ocMA.Antiphon12.melody  = ""
+ocMA.Antiphon12.melody = ""
 ocMA.Antiphon12.text = ""
 
 ocMA.Antiphon13.mode = misc_en_US_commentary.Mode6
-ocMA.Antiphon13.melody  = ""
+ocMA.Antiphon13.melody = ""
 ocMA.Antiphon13.text = ""
 
 ocMA.Antiphon21.mode = misc_en_US_commentary.Mode6
-ocMA.Antiphon21.melody  = ""
+ocMA.Antiphon21.melody = ""
 ocMA.Antiphon21.text = ""
 
 ocMA.Antiphon22.mode = misc_en_US_commentary.Mode6
-ocMA.Antiphon22.melody  = ""
+ocMA.Antiphon22.melody = ""
 ocMA.Antiphon22.text = ""
 
 ocMA.Antiphon23.mode = misc_en_US_commentary.Mode6
-ocMA.Antiphon23.melody  = ""
+ocMA.Antiphon23.melody = ""
 ocMA.Antiphon23.text = ""
 
 ocMA.Antiphon31.mode = misc_en_US_commentary.Mode6
-ocMA.Antiphon31.melody  = ""
+ocMA.Antiphon31.melody = ""
 ocMA.Antiphon31.text = ""
 
 ocMA.Antiphon32.mode = misc_en_US_commentary.Mode6
-ocMA.Antiphon32.melody  = ""
+ocMA.Antiphon32.melody = ""
 ocMA.Antiphon32.text = ""
 
 ocMA.Antiphon33.mode = misc_en_US_commentary.Mode6
-ocMA.Antiphon33.melody  = ""
+ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.text = ""
 
 ocMA.Prokeimenon.text = ""
@@ -425,7 +425,7 @@ ocMA.OdeS3C1T.text = ""
 ocMA.OdeS3C21.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS3C21.ode = misc_en_US_commentary.Ode3
 ocMA.OdeS3C21.melody = he.h.m6_en_US_commentary.SeTonEpiYdaton.name
-ocMA.OdeS3C21.text = ""
+ocMA.OdeS3C21.text = "An allusion to the Descent to Hades."
 
 ocMA.OdeS3C22.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS3C22.ode = misc_en_US_commentary.Ode3
@@ -450,7 +450,7 @@ ocMA.OdeS3C32.text = ""
 ocMA.OdeS3C33.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS3C33.ode = misc_en_US_commentary.Ode3
 ocMA.OdeS3C33.melody = he.h.m6_en_US_commentary.OukEstinAgios.name
-ocMA.OdeS3C33.text = ""
+ocMA.OdeS3C33.text = "Daniel 2:34. In Daniel it is the great statue that is smashed, rather than the pagan altars."
 
 ocMA.OdeS3C34.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS3C34.ode = misc_en_US_commentary.Ode3
@@ -535,7 +535,7 @@ ocMA.OdeS5C1T.text = ""
 ocMA.OdeS5C21.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS5C21.ode = misc_en_US_commentary.Ode5
 ocMA.OdeS5C21.melody = he.h.m6_en_US_commentary.TheofaneiasSouChriste.name
-ocMA.OdeS5C21.text = ""
+ocMA.OdeS5C21.text = "The troparion plays on a series of contrasts: between the two trees, in Eden and on Calvary; descent to corruption and ascent to beauty – κάλλος –; disobedience, παρακοή, and obedience,ὑπακοή, quoting Philippians 2:8, γενόμενος ὑπήκοος; and, implicitly, the father, Adam, and the Son, the Second Adam. Our ‘ancient beauty’ – κάλλος – is restored by One who had no beauty – κάλλος – in his death (Isaias 53:2). The same idea is found in the second of the Evlogitaria for the dead."
 
 ocMA.OdeS5C22.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS5C22.ode = misc_en_US_commentary.Ode5
@@ -575,7 +575,7 @@ ocMA.OdeS6C11.text = ""
 ocMA.OdeS6C12.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS6C12.ode = misc_en_US_commentary.Ode6
 ocMA.OdeS6C12.melody = he.h.m6_en_US_commentary.TouViouTinThalassan.name
-ocMA.OdeS6C12.text = ""
+ocMA.OdeS6C12.text = "An allusion to the parable of the Lost Sheep, Luke 15:3-7, which, unlike Matthew’s version, includes the words, ‘he puts it on his shoulders rejoicing’. This parable is used by the Fathers as an image not only of the redemption, but also as one of the incarnation, the sheep standing for human nature. Another example is in the 1st Doxastikon of Great Vespers in Tone 4, ‘The Prophet David, through you the ancestor of God, spoke of you in song beforehand to him who has done great things for you: the Queen stood at your right hand. For he, the God who was well pleased without father to become man from you, declared you to be mother, agent of life, that he might refashion his own image, corrupted by passions, and, having found the lost sheep wandering on the mountain and laid it on his shoulders, he might bring it to his Father; and by his own will unite it to the heavenly Powers and save the world, O Mother of God, Christ who has great and rich mercy’. The text combines the two versions, the second phrase is Luke’s. In the patristic tradition it is taken to refer to the human nature assumed by the Word at the incarnation. Cf. St Gregory of Nazianzus, On Theophany [PG 39,328], ῞Οτι ἐπὶ τὸ πλανώμενον ἦλθεν ὁ ποιμὴν ὁ καλὸς, ὁ τιθεὶς τὴν ψυχὴν ὑπὲρ τῶν προβάτων, ἐπὶ τὰ ὄρη καὶ τοὺς βουνοὺς, ἐφ' ὧν ἐθυσίαζες, καὶ πλανώμενον εὗρε· καὶ εὑρὼν, ἐπὶ τῶν ὤμων ἀνέλαβεν, ἐφ' ὧν καὶ τὸ ξύλον· καὶ λαβὼν, ἐπανήγαγεν ἐπὶ τὴν ἄνω ζωήν· καὶ ἀναγαγὼν, τοῖς μένουσι συνηρίθμησεν; and St Gregory of Nyssa, Contra Eunomium 3.10.11, διὰ τοῦτο ὁ πᾶσαν τὴν λογικὴν κτίσιν ποιμαίνων καταλιπὼν ἐν τοῖς ὑψηλοῖς τὴν ἀπλανῆ τε καὶ ὑπερκόσμιον ποίμνην τὸ πεπλανημένον πρόβατον, τὴν ἡμετέραν λέγω φύσιν, ὑπὸ φιλανθρωπίας μετέρχεται."
 
 ocMA.OdeS6C1T.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS6C1T.ode = misc_en_US_commentary.Ode6
@@ -595,22 +595,22 @@ ocMA.OdeS6C22.text = ""
 ocMA.OdeS6C2T.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS6C2T.ode = misc_en_US_commentary.Ode6
 ocMA.OdeS6C2T.melody = he.h.m6_en_US_commentary.SyneschethiAllOuKateschethi.name
-ocMA.OdeS6C2T.text = ""
+ocMA.OdeS6C2T.text = "The troparion is based on Psalm 44:4-7, with an allusion to Psalm 2:9."
 
 ocMA.OdeS6C31.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS6C31.ode = misc_en_US_commentary.Ode6
 ocMA.OdeS6C31.melody = he.h.m6_en_US_commentary.TouViouTinThalassan.name
-ocMA.OdeS6C31.text = ""
+ocMA.OdeS6C31.text = "A traditional list of types of the Mother of God taken from the furnishings of the Tent of Witness. See Exodus 25:10-15.23-30.31-40, for the first three, Exodus 16:33-36 for the Jar. They are all objects which contain something greater than themselves."
 
 ocMA.OdeS6C32.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS6C32.ode = misc_en_US_commentary.Ode6
 ocMA.OdeS6C32.melody = he.h.m6_en_US_commentary.TouViouTinThalassan.name
-ocMA.OdeS6C32.text = ""
+ocMA.OdeS6C32.text = "Eden and Golgotha are linked by the Tree of Life. The Tree is the Cross, whose fruit is Christ."
 
 ocMA.OdeS6C33.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS6C33.ode = misc_en_US_commentary.Ode6
 ocMA.OdeS6C33.melody = he.h.m6_en_US_commentary.TouViouTinThalassan.name
-ocMA.OdeS6C33.text = ""
+ocMA.OdeS6C33.text = "This echoes a number of passages in the New Testament, though none is quoted precisely. The idea is also found in the first Doxastikon of Great Vespers in Tone 2, ‘The shadow of the law has passed away now that grace has come’. We may compare, for example, Heb. 10,1, ‘Since the law has only a shadow of the good things to come, and not the actual image of the realities’, 2 Cor. 5:17, ‘So whoever is in Christ is a new creation: the old things have passed away; behold, new things have come’, John 1:17, ‘The law was given through Moses, grace and truth came through Jesus Christ’."
 
 ocMA.Kontakion.mode = misc_en_US_commentary.Mode6
 ocMA.Kontakion.melody = he.a.m6_en_US_commentary.TinYperImon.name
@@ -627,7 +627,7 @@ ocMA.OdeS7C1H.text = he.h.m6_en_US_commentary.DrosovolonMenTinKaminon.text
 ocMA.OdeS7C11.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS7C11.ode = misc_en_US_commentary.Ode7
 ocMA.OdeS7C11.melody = he.h.m6_en_US_commentary.DrosovolonMenTinKaminon.name
-ocMA.OdeS7C11.text = ""
+ocMA.OdeS7C11.text = "Luke 23:44-45. Only St Luke mentions the sun. The three troparia of this Ode dwell on the theme of light. In the first the sun becomes dark, in the second the underworld becomes light, in the third Christ is declared to be the true Light of the world."
 
 ocMA.OdeS7C12.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS7C12.ode = misc_en_US_commentary.Ode7
@@ -742,7 +742,7 @@ ocMA.OdeS9C11.text = ""
 ocMA.OdeS9C12.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS9C12.ode = misc_en_US_commentary.Ode9
 ocMA.OdeS9C12.melody = he.h.m6_en_US_commentary.TheonAnthropois.name
-ocMA.OdeS9C12.text = ""
+ocMA.OdeS9C12.text = "The inspiration for this troparion is Psalm 15, which since Acts 2:25-29 has been taken as prophetic of the Resurrection."
 
 ocMA.OdeS9C1Tr.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS9C1Tr.ode = misc_en_US_commentary.Ode9
@@ -757,7 +757,7 @@ ocMA.OdeS9C21.text = ""
 ocMA.OdeS9C22.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS9C22.ode = misc_en_US_commentary.Ode9
 ocMA.OdeS9C22.melody = he.h.m6_en_US_commentary.MiEpodyrouMouMiter.name
-ocMA.OdeS9C22.text = ""
+ocMA.OdeS9C22.text = "Cf. Isaias 35:1, where it is the desert, not creation, that is invited to rejoice and flower."
 
 ocMA.OdeS9C2T.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS9C2T.ode = misc_en_US_commentary.Ode9
@@ -767,7 +767,7 @@ ocMA.OdeS9C2T.text = ""
 ocMA.OdeS9C31.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS9C31.ode = misc_en_US_commentary.Ode9
 ocMA.OdeS9C31.melody = he.h.m6_en_US_commentary.TheonAnthropois.name
-ocMA.OdeS9C31.text = ""
+ocMA.OdeS9C31.text = "Numbers 24:17. The LXX has ‘a man’ where the Hebrew has ‘sceptre’, ‘staff’. This makes a Christological understanding of Balaam’s prophecy easier."
 
 ocMA.OdeS9C32.mode = misc_en_US_commentary.Mode6
 ocMA.OdeS9C32.ode = misc_en_US_commentary.Ode9
@@ -787,20 +787,20 @@ ocMA.OdeS9C34.text = ""
 ocMA.Magnificat.mode = misc_en_US_commentary.Mode6
 ocMA.Magnificat.text = he.h.m6_en_US_commentary.TinTimioteran.text
 
-ocMA.Lauds01.text = "" //for media
+ocMA.Lauds01.text = "" // for media
 
-ocMA.Lauds02.text = "" //for media
+ocMA.Lauds02.text = "" // for media
 
 ocMA.Lauds1.mode = misc_en_US_commentary.Mode6
-ocMA.Lauds1.melody  = ""
+ocMA.Lauds1.melody = ""
 ocMA.Lauds1.text = ""
 
 ocMA.Lauds2.mode = misc_en_US_commentary.Mode6
-ocMA.Lauds2.melody  = ""
+ocMA.Lauds2.melody = ""
 ocMA.Lauds2.text = ""
 
 ocMA.Lauds3.mode = misc_en_US_commentary.Mode6
-ocMA.Lauds3.melody  = ""
+ocMA.Lauds3.melody = ""
 ocMA.Lauds3.text = ""
 
 ocMA.Lauds4.mode = misc_en_US_commentary.Mode6
@@ -808,24 +808,24 @@ ocMA.Lauds4.melody = misc_en_US_commentary.Automelon
 ocMA.Lauds4.text = he.a.m6_en_US_commentary.TriimerosAnestis.text
 
 ocMA.Lauds5.mode = misc_en_US_commentary.Mode6
-ocMA.Lauds5.melody  = ""
+ocMA.Lauds5.melody = ""
 ocMA.Lauds5.text = ""
 
 ocMA.Lauds6.mode = misc_en_US_commentary.Mode6
-ocMA.Lauds6.melody  = ""
+ocMA.Lauds6.melody = ""
 ocMA.Lauds6.text = ""
 
 ocMA.Lauds7.mode = misc_en_US_commentary.Mode6
-ocMA.Lauds7.melody  = ""
+ocMA.Lauds7.melody = ""
 ocMA.Lauds7.text = ""
 
 ocMA.Lauds8.mode = misc_en_US_commentary.Mode6
-ocMA.Lauds8.melody  = ""
+ocMA.Lauds8.melody = ""
 ocMA.Lauds8.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_US_commentary.Mode6
-ocMA.ApolTheotokion.melody  = ""
-ocMA.ApolTheotokion.text  = ""
+ocMA.ApolTheotokion.melody = ""
+ocMA.ApolTheotokion.text = ""
 
 ocLI.Beatitudes1.mode = misc_en_US_commentary.Mode6
 ocLI.Beatitudes1.melody = he.h.m6_en_US_commentary.IToChaireDiAngelou.name
