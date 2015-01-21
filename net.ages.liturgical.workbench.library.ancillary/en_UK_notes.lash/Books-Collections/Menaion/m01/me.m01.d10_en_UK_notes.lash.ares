@@ -485,11 +485,5 @@ meLI.SeasonalKontakion.mode = misc_en_UK_notes.lash.Mode4
 meLI.SeasonalKontakion.melody = misc_en_UK_notes.lash.Automelon
 meLI.SeasonalKontakion.text = me.m01.d06_en_UK_notes.lash.meMA.Kontakion1.text
 
-meLI.Alleluia.mode = ""
-
-meLI.AlleluiaVerse1.text = ""
-
-meLI.AlleluiaVerse2.text = ""
-
 meMegalynarion.text = ""
 
