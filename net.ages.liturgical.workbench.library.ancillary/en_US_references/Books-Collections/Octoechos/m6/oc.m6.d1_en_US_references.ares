@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = oc.m6.d1_en_US_references
 
-ocVE.GlorySticheraric.mode = "misc_en_US_references.Mode6" // for mode-specific media
-ocVE.GlorySticheraric.text = prayers_en_US_references.DoxaPatri.text
+ocGE.GlorySticheraric.mode = "misc_en_US_references.Mode6" // for mode-specific media
+ocGE.GlorySticheraric.text = prayers_en_US_references.DoxaPatri.text
 
-ocVE.BothSticheraric.mode = "misc_en_US_references.Mode6" // for mode-specific media
-ocVE.BothSticheraric.text = prayers_en_US_references.KaiNynKaiAei.text
+ocGE.BothSticheraric.mode = "misc_en_US_references.Mode6" // for mode-specific media
+ocGE.BothSticheraric.text = prayers_en_US_references.KaiNynKaiAei.text
 
-ocVE.GloryHeirmologic.mode = "misc_en_US_references.Mode6" // for mode-specific media
-ocVE.GloryHeirmologic.text = prayers_en_US_references.DoxaPatri.text
+ocGE.GloryHeirmologic.mode = "misc_en_US_references.Mode6" // for mode-specific media
+ocGE.GloryHeirmologic.text = prayers_en_US_references.DoxaPatri.text
 
-ocVE.BothHeirmologic.mode = "misc_en_US_references.Mode6" // for mode-specific media
-ocVE.BothHeirmologic.text = prayers_en_US_references.KaiNynKaiAei.text
+ocGE.BothHeirmologic.mode = "misc_en_US_references.Mode6" // for mode-specific media
+ocGE.BothHeirmologic.text = prayers_en_US_references.KaiNynKaiAei.text
 
 ocSV.Dogmatic.mode = misc_en_US_references.Mode6
 ocSV.Dogmatic.melody = ""
