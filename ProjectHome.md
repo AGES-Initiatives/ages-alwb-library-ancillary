@@ -1,0 +1,1 @@
+Resources by and for translators of Orthodox Christian liturgical texts
