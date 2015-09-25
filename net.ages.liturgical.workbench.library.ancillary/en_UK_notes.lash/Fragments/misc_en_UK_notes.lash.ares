@@ -3,6 +3,7 @@ A_Resource_Whose_Name = misc_en_UK_notes.lash
 NotAvailable = ""
 NotMetered = ""
 Automelon = ""
+AutomelonNotMetered = ""
 Heirmos = ""
 HeirmosNotMetered = ""
 Idiomelon = ""
