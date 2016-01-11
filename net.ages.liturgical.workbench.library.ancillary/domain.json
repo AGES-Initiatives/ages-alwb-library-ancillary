@@ -1,0 +1,26 @@
+[
+	{
+	  "language": "en"
+	  , "country" : "UK"
+	  , "realm" : "notes.lash"
+	  , "description" : "English, USA, Notes by Fr. Ephrem Lash"
+	},
+	{
+	  "language": "en"
+	  , "country" : "US"
+	  , "realm" : "commentary"
+	  , "description" : "English, USA, Commentary on text"
+	},
+	{
+	  "language": "en"
+	  , "country" : "US"
+	  , "realm" : "notes.dedes"
+	  , "description" : "English, USA, Notes by Fr. Seraphim Dedes"
+	},
+	{
+	  "language": "en"
+	  , "country" : "US"
+	  , "realm" : "references"
+	  , "description" : "English, USA, References to Scripture etc."
+	},
+]
