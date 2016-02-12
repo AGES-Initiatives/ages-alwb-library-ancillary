@@ -175,7 +175,11 @@ KanonTouAgiou = ""
 
 KanonTouAgiouNikolaou = ""
 
+KanonTouEvangelistou = ""
+
 KanonTouOsiou = ""
+
+KanonTouPascha = ""
 
 KanonTouProdromou = ""
 
@@ -222,6 +226,8 @@ KontakionProeortion = ""
 KontakionTisEortis = ""
 
 KontakionTonPateron = ""
+
+KontakionTouPascha = ""
 
 KontakionTouTriodiou = ""
 
