@@ -291,6 +291,8 @@ OKanonTisEortis = ""
 
 OKanonTouMinaiou = ""
 
+OKanonTouMinaiou2 = "" //makes English say General Menaion = ""
+
 Omoia = ""
 
 Omoion = ""
@@ -367,6 +369,8 @@ StichiraStavrosima = ""
 StichiraTisEortis = ""
 
 StichiraTisTheotokou = ""
+
+StichiraTouMinaiou = ""
 
 StichiraTouPascha = ""
 
