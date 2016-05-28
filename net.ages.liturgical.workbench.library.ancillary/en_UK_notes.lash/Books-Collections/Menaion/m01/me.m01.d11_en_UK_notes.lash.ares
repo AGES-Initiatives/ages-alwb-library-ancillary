@@ -101,6 +101,7 @@ meMA.PostGospelIdiomelon.mode = misc_en_UK_notes.lash.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = ""
 
+meMA.C1.title = ""
 meMA.C1.verse = ""
 
 meMA.Ode1C11.ode = misc_en_UK_notes.lash.Ode1
