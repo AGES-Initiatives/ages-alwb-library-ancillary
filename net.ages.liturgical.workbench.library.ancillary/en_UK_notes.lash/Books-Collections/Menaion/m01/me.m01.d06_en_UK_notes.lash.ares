@@ -690,9 +690,7 @@ meMA.LaudsBoth.mode = misc_en_UK_notes.lash.Mode2
 meMA.LaudsBoth.melody = misc_en_UK_notes.lash.Idiomelon
 meMA.LaudsBoth.text = ""
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+//meMA.MM.Lauds1234as5678.text = properties_en_UK_notes.lash.media.key
 
 meLI.Antiphon2.text = ""
 
