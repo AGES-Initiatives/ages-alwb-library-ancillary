@@ -175,6 +175,10 @@ KanonTisTheotokou = ""
 
 KanonTonAgion = ""
 
+KanonATonAgion = ""
+
+KanonBTonAgion = ""
+
 KanonTonAgionApostolon = ""
 
 KanonATonAsomaton = ""
@@ -186,6 +190,10 @@ KanonTonAsomaton = ""
 KanonTonMartyron = ""
 
 KanonTouAgiou = ""
+
+KanonATouAgiou = ""
+
+KanonBTouAgiou = ""
 
 KanonTouAgiouNikolaou = ""
 
@@ -206,6 +214,10 @@ KanonATouTriodiou = ""
 KanonBTouTriodiou = ""
 
 KanonTouProfitou = ""
+
+KanonATouProfitou = ""
+
+KanonBTouProfitou = ""
 
 KanonTouTriodiou = ""
 
