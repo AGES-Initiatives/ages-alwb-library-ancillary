@@ -147,6 +147,8 @@ KanonEisKoimithentas = ""
 
 KanonEisProfitasKaiMartyras = ""
 
+KanonIamvikos = ""
+
 KanonKatanyktikos = ""
 
 KanonOAnastasimos = ""
@@ -170,6 +172,10 @@ KanonATisOsias = ""
 KanonBTisOsias = ""
 
 KanonTisOsias = ""
+
+KanonATisTheotokou = ""
+
+KanonBTisTheotokou = ""
 
 KanonTisTheotokou = ""
 
@@ -198,6 +204,10 @@ KanonBTouAgiou = ""
 KanonTouAgiouNikolaou = ""
 
 KanonTouApostolou = ""
+
+KanonATouApostolou = ""
+
+KanonBTouApostolou = ""
 
 KanonTouArchangelou = ""
 
