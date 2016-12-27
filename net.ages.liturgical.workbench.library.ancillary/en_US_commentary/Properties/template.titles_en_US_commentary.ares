@@ -43,6 +43,10 @@ un.html.tab  = ""
 un.pdf.header = ""
 un.pdf.cover = ""
 
+co5.html.tab = ""
+co5.pdf.header = ""
+co5.pdf.cover = ""
+
 em.html.tab  = "" //this is for Matins in the evening during Holy Week
 em.pdf.header = ""
 em.pdf.cover = ""
