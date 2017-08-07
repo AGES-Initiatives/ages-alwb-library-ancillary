@@ -258,9 +258,5 @@ meMA.Ode9C1T.mode = misc_en_US_references.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_US_references.TonEkTheouTheonLogon.name
 meMA.Ode9C1T.text = ""
 
-meLI.SeasonalKontakion.mode = misc_en_US_references.Mode2
-meLI.SeasonalKontakion.melody = ""
-meLI.SeasonalKontakion.text = //ho.s07_en_US_references.hoTY.Key0408.text
-
 meMegalynarion.text = ""
 

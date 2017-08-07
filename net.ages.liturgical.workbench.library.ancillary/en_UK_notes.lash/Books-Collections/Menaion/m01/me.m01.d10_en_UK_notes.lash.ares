@@ -487,9 +487,5 @@ meMA.AposBoth.text = me.m01.d06_en_UK_notes.lash.meMA.Lauds3.text
 
 meLI.Antiphon2.text = me.m01.d06_en_UK_notes.lash.meLI.Antiphon2.text
 
-meLI.SeasonalKontakion.mode = misc_en_UK_notes.lash.Mode4
-meLI.SeasonalKontakion.melody = misc_en_UK_notes.lash.Automelon
-meLI.SeasonalKontakion.text = me.m01.d06_en_UK_notes.lash.meMA.Kontakion1.text
-
 meMegalynarion.text = ""
 

@@ -332,10 +332,6 @@ pePA.Antiphon2.text = ho.s07_en_UK_notes.lash.hoLI.Antiphon2s.text
 
 pePA.EntranceHymn.text = "" //for media
 
-pePA.SeasonalKontakion.mode = misc_en_UK_notes.lash.Mode8
-pePA.SeasonalKontakion.melody  = ""
-pePA.SeasonalKontakion.text = pePA.Kontakion.text
-
 pePA.TheotokosHymn.mode = misc_en_UK_notes.lash.Mode1
 pePA.TheotokosHymnVerse.text = pePA.Ode9MKa.text
 pePA.TheotokosHymn.text = pePA.Ode9H.text

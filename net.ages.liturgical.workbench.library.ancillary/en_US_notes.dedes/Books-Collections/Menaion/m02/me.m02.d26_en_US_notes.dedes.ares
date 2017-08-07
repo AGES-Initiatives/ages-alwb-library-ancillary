@@ -280,9 +280,5 @@ meMA.ExapTheotokion.mode = misc_en_US_notes.dedes.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_notes.dedes.EpeskepsatoImas.name
 meMA.ExapTheotokion.text = ""
 
-meLI.SeasonalKontakion.mode = misc_en_US_notes.dedes.Mode2
-meLI.SeasonalKontakion.melody = ""
-meLI.SeasonalKontakion.text = ""
-
 meMegalynarion.text = ""
 
