@@ -107,3 +107,8 @@ OTheosTonPateronImon.mode = misc_en_UK_notes.lash.Mode4
 OTheosTonPateronImon.melody = ""
 OTheosTonPateronImon.text = ""
 
+YpomonisStylos.name = ""
+YpomonisStylos.mode = misc_en_UK_notes.lash.Mode1
+YpomonisStylos.melody = ""
+YpomonisStylos.text1 = ""
+YpomonisStylos.text2 = ""
