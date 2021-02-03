@@ -1,20 +1,20 @@
-A_Resource_Whose_Name=le.pr.tr.d040_en_UK_notes.lash
+A_Resource_Whose_Name = le.pr.tr.d040_en_UK_notes.lash
 
-lemcVE.reading1.title=""
-lemcVE.reading1.version=""
-lemcVE.reading1.book=bible_en_UK_notes.lash.Genesis
-lemcVE.reading1.chapverse=""
-lemcVE.reading1.text=""
+lemcVE.reading1.title = ""
+lemcVE.reading1.version = ""
+lemcVE.reading1.book = bible_en_UK_notes.lash.Genesis
+lemcVE.reading1.chapverse = ""
+lemcVE.reading1.text = ""
 
-lemcVE.reading2.title=""
-lemcVE.reading2.version=""
-lemcVE.reading2.book=bible_en_UK_notes.lash.Proverbs
-lemcVE.reading2.chapverse=""
-lemcVE.reading2.text="[note] †One who relies on falsehoods, shepherds winds, while he will pursue flying birds; for he has left the ways of his own vineyard, while he has made the axes of his field go astray. He walks through a waterless desert and a land appointed to drought, he gathers fruitlessness with his hands.† The passage marked † … † is not in the MT of the Hebrew. [note] pleasure and drink: This word is not in the standard editions of the LXX, nor in the Hebrew, which differs a good deal from the Greek in this verse anyway. [note] †But hurry away, do not delay in the place and do not rest your eye on her; for thus you will pass through strange water, pass over a strange river; keep away from strange water and do not drink of a strange spring, that you may live a long time and that years may be added to your life.† The passage marked † … † is not in the MT of the Hebrew."
+lemcVE.reading2.title = ""
+lemcVE.reading2.version = ""
+lemcVE.reading2.book = bible_en_UK_notes.lash.Proverbs
+lemcVE.reading2.chapverse = ""
+lemcVE.reading2.text = "[note] †One who relies on falsehoods, shepherds winds, while he will pursue flying birds; for he has left the ways of his own vineyard, while he has made the axes of his field go astray. He walks through a waterless desert and a land appointed to drought, he gathers fruitlessness with his hands.† The passage marked † … † is not in the MT of the Hebrew. [note] pleasure and drink: This word is not in the standard editions of the LXX, nor in the Hebrew, which differs a good deal from the Greek in this verse anyway. [note] †But hurry away, do not delay in the place and do not rest your eye on her; for thus you will pass through strange water, pass over a strange river; keep away from strange water and do not drink of a strange spring, that you may live a long time and that years may be added to your life.† The passage marked † … † is not in the MT of the Hebrew."
 
-lemcTE.reading1.title=""
-lemcTE.reading1.version=""
-lemcTE.reading1.book=bible_en_UK_notes.lash.Isaiah
-lemcTE.reading1.chapverse=""
-lemcTE.reading1.text=""
+lemcTE.reading1.title = ""
+lemcTE.reading1.version = ""
+lemcTE.reading1.book = bible_en_UK_notes.lash.Isaiah
+lemcTE.reading1.chapverse = ""
+lemcTE.reading1.text = ""
 

@@ -1,20 +1,20 @@
-A_Resource_Whose_Name=le.pr.tr.d033_en_US_commentary
+A_Resource_Whose_Name = le.pr.tr.d033_en_US_commentary
 
-lemcVE.reading1.title=""
-lemcVE.reading1.version=""
-lemcVE.reading1.book=bible_en_US_commentary.Genesis
-lemcVE.reading1.chapverse=""
-lemcVE.reading1.text=""
+lemcVE.reading1.title = ""
+lemcVE.reading1.version = ""
+lemcVE.reading1.book = bible_en_US_commentary.Genesis
+lemcVE.reading1.chapverse = ""
+lemcVE.reading1.text = ""
 
-lemcVE.reading2.title=""
-lemcVE.reading2.version=""
-lemcVE.reading2.book=bible_en_US_commentary.Proverbs
-lemcVE.reading2.chapverse=""
-lemcVE.reading2.text=""
+lemcVE.reading2.title = ""
+lemcVE.reading2.version = ""
+lemcVE.reading2.book = bible_en_US_commentary.Proverbs
+lemcVE.reading2.chapverse = ""
+lemcVE.reading2.text = ""
 
-lemcTE.reading1.title=""
-lemcTE.reading1.version=""
-lemcTE.reading1.book=bible_en_US_commentary.Isaiah
-lemcTE.reading1.chapverse=""
-lemcTE.reading1.text="tongs: This word, lavis, which is singular in Greek, is the one used for the spoon with which Communion is given. The word does not mean ‘spoon’. It is used in this way with direct reference to this verse of Isaias, just as the next verse is prescribed to be said after receiving Communion."
+lemcTE.reading1.title = ""
+lemcTE.reading1.version = ""
+lemcTE.reading1.book = bible_en_US_commentary.Isaiah
+lemcTE.reading1.chapverse = ""
+lemcTE.reading1.text = "tongs: This word, lavis, which is singular in Greek, is the one used for the spoon with which Communion is given. The word does not mean ‘spoon’. It is used in this way with direct reference to this verse of Isaias, just as the next verse is prescribed to be said after receiving Communion."
 

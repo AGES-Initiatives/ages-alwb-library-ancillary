@@ -1,20 +1,20 @@
-A_Resource_Whose_Name=le.pr.tr.d034_en_US_commentary
+A_Resource_Whose_Name = le.pr.tr.d034_en_US_commentary
 
-lemcVE.reading1.title=""
-lemcVE.reading1.version=""
-lemcVE.reading1.book=bible_en_US_commentary.Genesis
-lemcVE.reading1.chapverse=""
-lemcVE.reading1.text=""
+lemcVE.reading1.title = ""
+lemcVE.reading1.version = ""
+lemcVE.reading1.book = bible_en_US_commentary.Genesis
+lemcVE.reading1.chapverse = ""
+lemcVE.reading1.text = ""
 
-lemcVE.reading2.title=""
-lemcVE.reading2.version=""
-lemcVE.reading2.book=bible_en_US_commentary.Proverbs
-lemcVE.reading2.chapverse=""
-lemcVE.reading2.text="The passage about the bee is not in the Hebrew."
+lemcVE.reading2.title = ""
+lemcVE.reading2.version = ""
+lemcVE.reading2.book = bible_en_US_commentary.Proverbs
+lemcVE.reading2.chapverse = ""
+lemcVE.reading2.text = "The passage about the bee is not in the Hebrew."
 
-lemcTE.reading1.title=""
-lemcTE.reading1.version=""
-lemcTE.reading1.book=bible_en_US_commentary.Isaiah
-lemcTE.reading1.chapverse=""
-lemcTE.reading1.text=""
+lemcTE.reading1.title = ""
+lemcTE.reading1.version = ""
+lemcTE.reading1.book = bible_en_US_commentary.Isaiah
+lemcTE.reading1.chapverse = ""
+lemcTE.reading1.text = ""
 

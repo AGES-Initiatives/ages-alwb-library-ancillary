@@ -1,20 +1,20 @@
-A_Resource_Whose_Name=le.pr.tr.d032_en_UK_notes.lash
+A_Resource_Whose_Name = le.pr.tr.d032_en_UK_notes.lash
 
-lemcVE.reading1.title=""
-lemcVE.reading1.version=""
-lemcVE.reading1.book=bible_en_UK_notes.lash.Genesis
-lemcVE.reading1.chapverse=""
-lemcVE.reading1.text="The Hebrew simply has, ‘And Cain said to his brother Abel’, but the LXX is supported by the Syriac, the Samaritan, the Vulgate and the Targums. AV’s ‘And Cain talked with Abel’ is an attempt to disguise the problem in the Hebrew."
+lemcVE.reading1.title = ""
+lemcVE.reading1.version = ""
+lemcVE.reading1.book = bible_en_UK_notes.lash.Genesis
+lemcVE.reading1.chapverse = ""
+lemcVE.reading1.text = "The Hebrew simply has, ‘And Cain said to his brother Abel’, but the LXX is supported by the Syriac, the Samaritan, the Vulgate and the Targums. AV’s ‘And Cain talked with Abel’ is an attempt to disguise the problem in the Hebrew."
 
-lemcVE.reading2.title=""
-lemcVE.reading2.version=""
-lemcVE.reading2.book=bible_en_UK_notes.lash.Proverbs
-lemcVE.reading2.chapverse=""
-lemcVE.reading2.text="but afterwards: LXX takes the noun ‘her end’ as an adverb, and hence has no noun for the next clauses to refer to, but the adjectives are neuter, not feminine, hence ‘it’."
+lemcVE.reading2.title = ""
+lemcVE.reading2.version = ""
+lemcVE.reading2.book = bible_en_UK_notes.lash.Proverbs
+lemcVE.reading2.chapverse = ""
+lemcVE.reading2.text = "but afterwards: LXX takes the noun ‘her end’ as an adverb, and hence has no noun for the next clauses to refer to, but the adjectives are neuter, not feminine, hence ‘it’."
 
-lemcTE.reading1.title=""
-lemcTE.reading1.version=""
-lemcTE.reading1.book=bible_en_UK_notes.lash.Isaiah
-lemcTE.reading1.chapverse=""
-lemcTE.reading1.text=""
+lemcTE.reading1.title = ""
+lemcTE.reading1.version = ""
+lemcTE.reading1.book = bible_en_UK_notes.lash.Isaiah
+lemcTE.reading1.chapverse = ""
+lemcTE.reading1.text = ""
 
