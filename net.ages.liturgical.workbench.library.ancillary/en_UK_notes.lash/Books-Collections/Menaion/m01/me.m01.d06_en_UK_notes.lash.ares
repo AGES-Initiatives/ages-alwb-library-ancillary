@@ -1,706 +1,938 @@
-A_Resource_Whose_Name = me.m01.d06_en_UK_notes.lash
+A_Resource_Whose_Name=me.m01.d06_en_UK_notes.lash
 
-meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank  = ""
-meHO.commemorations = ""
-meHO.note1 = rubrical_en_UK_notes.lash.HolidayAll
-meHO.note2 = ""
-meDismissal = dismissals_en_UK_notes.lash.dis00.epiphany
+meDate.text="" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text="" //full title of day
+meShortCommemoration1.text=""
+meInsert1="" //for use in petitions and dismissal
+meInsert2="" //for use in petitions and dismissal
+meNote.text=""
+meLE.commemoration1=""
+meLE.commemoration2=""
+meHO.number=""
+meHO.rank =""
+meHO.commemorations=""
+meHO.note1=rubrical_en_UK_notes.lash.HolidayAll
+meHO.note2=""
+meDismissal=dismissals_en_UK_notes.lash.dis00.epiphany
 
-meVE.Stichera01.poet = poets_en_UK_notes.lash.IoannouMonachou
-meVE.Stichera01.mode = misc_en_UK_notes.lash.Mode2
-meVE.Stichera01.melody  = ""
-meVE.Stichera01.text = ""
+meVE.Stichera01.poet=poets_en_UK_notes.lash.IoannouMonachou
+meVE.Stichera01.mode=misc_en_UK_notes.lash.Mode2
+meVE.Stichera01.melody =""
+meVE.Stichera01.incipit = ""
+meVE.Stichera01.text=""
 
-meVE.Stichera02.mode = misc_en_UK_notes.lash.Mode2
-meVE.Stichera02.melody  = ""
-meVE.Stichera02.text = ""
+meVE.Stichera02.mode=misc_en_UK_notes.lash.Mode2
+meVE.Stichera02.melody =""
+meVE.Stichera02.incipit = ""
+meVE.Stichera02.text=""
 
-meVE.Stichera03.mode = misc_en_UK_notes.lash.Mode2
-meVE.Stichera03.melody  = ""
-meVE.Stichera03.text = ""
+meVE.Stichera03.mode=misc_en_UK_notes.lash.Mode2
+meVE.Stichera03.melody =""
+meVE.Stichera03.incipit = ""
+meVE.Stichera03.text=""
 
-meVE.Stichera04.mode = misc_en_UK_notes.lash.Mode2
-meVE.Stichera04.melody  = ""
-meVE.Stichera04.text = ""
+meVE.Stichera04.mode=misc_en_UK_notes.lash.Mode2
+meVE.Stichera04.melody =""
+meVE.Stichera04.incipit = ""
+meVE.Stichera04.text=""
 
-meVE.Stichera567.text = "" //for media
+meVE.Stichera567.text="" //for media
 
-meVE.SticGlory.poet = poets_en_UK_notes.lash.Vyzantos
-meVE.SticGlory.mode = misc_en_UK_notes.lash.Mode2
-meVE.SticGlory.melody  = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.poet=poets_en_UK_notes.lash.Vyzantos
+meVE.SticGlory.mode=misc_en_UK_notes.lash.Mode2
+meVE.SticGlory.melody =""
+meVE.SticGlory.incipit = ""
+meVE.SticGlory.text=""
 
-meVE.ProphecyTroparion1.mode = misc_en_UK_notes.lash.Mode5
-meVE.ProphecyTroparion1.text = ""
-meVE.ProphecyTroparion1Refrain.text = ""
+meVE.ProphecyTroparion1.mode=misc_en_UK_notes.lash.Mode5
+meVE.ProphecyTroparion1.incipit = ""
+meVE.ProphecyTroparion1.text=""
+meVE.ProphecyTroparion1Refrain.incipit = ""
+meVE.ProphecyTroparion1Refrain.text=""
 
-meVE.ProphecyTroparion2.mode = misc_en_UK_notes.lash.Mode6
-meVE.ProphecyTroparion2.text = ""
-meVE.ProphecyTroparion2Refrain.text = ""
+meVE.ProphecyTroparion2.mode=misc_en_UK_notes.lash.Mode6
+meVE.ProphecyTroparion2.incipit = ""
+meVE.ProphecyTroparion2.text=""
+meVE.ProphecyTroparion2Refrain.incipit = ""
+meVE.ProphecyTroparion2Refrain.text=""
 
-meVE.TheotokosHymn.mode  = ""
-meVE.TheotokosHymn.text = eu.lichrysbasil_en_UK_notes.lash.euLI.Key1328.basil.text
+meVE.TheotokosHymn.mode =""
+meVE.TheotokosHymn.incipit = eu.lichrysbasil_en_UK_notes.lash.euLI.Key1328.basil.incipit
+meVE.TheotokosHymn.text=eu.lichrysbasil_en_UK_notes.lash.euLI.Key1328.basil.text
 
-meVE.CommunionHymn.text = da.d1_en_UK_notes.lash.daLI.CommunionHymn.text
+meVE.CommunionHymn.incipit = da.d1_en_UK_notes.lash.daLI.CommunionHymn.incipit
+meVE.CommunionHymn.text=da.d1_en_UK_notes.lash.daLI.CommunionHymn.text
 
 //Great Water Blessing for Jan 6 Epiphany
-meGW.title = ""
-meGW.translator = ""
+meGW.title=""
+meGW.translator=""
 
-meGW.Idiomelon1.poet = poets_en_UK_notes.lash.SofroniouPatriarchouIerosolymon
-meGW.Idiomelon1.mode = misc_en_UK_notes.lash.Mode8
-meGW.Idiomelon1.text = ""
+meGW.Idiomelon1.poet=poets_en_UK_notes.lash.SofroniouPatriarchouIerosolymon
+meGW.Idiomelon1.mode=misc_en_UK_notes.lash.Mode8
+meGW.Idiomelon1.incipit = ""
+meGW.Idiomelon1.text=""
 
-meGW.Idiomelon2.poet = poets_en_UK_notes.lash.SofroniouPatriarchouIerosolymon
-meGW.Idiomelon2.mode = misc_en_UK_notes.lash.Mode8
-meGW.Idiomelon2.text = ""
+meGW.Idiomelon2.poet=poets_en_UK_notes.lash.SofroniouPatriarchouIerosolymon
+meGW.Idiomelon2.mode=misc_en_UK_notes.lash.Mode8
+meGW.Idiomelon2.incipit = ""
+meGW.Idiomelon2.text=""
 
-meGW.Idiomelon3.poet = poets_en_UK_notes.lash.SofroniouPatriarchouIerosolymon
-meGW.Idiomelon3.mode = misc_en_UK_notes.lash.Mode8
-meGW.Idiomelon3.text = ""
+meGW.Idiomelon3.poet=poets_en_UK_notes.lash.SofroniouPatriarchouIerosolymon
+meGW.Idiomelon3.mode=misc_en_UK_notes.lash.Mode8
+meGW.Idiomelon3.incipit = ""
+meGW.Idiomelon3.text=""
 
-meGW.IdiomelonGlory.poet = poets_en_UK_notes.lash.SofroniouPatriarchouIerosolymon
-meGW.IdiomelonGlory.mode = misc_en_UK_notes.lash.Mode8
-meGW.IdiomelonGlory.text = ""
+meGW.IdiomelonGlory.poet=poets_en_UK_notes.lash.SofroniouPatriarchouIerosolymon
+meGW.IdiomelonGlory.mode=misc_en_UK_notes.lash.Mode8
+meGW.IdiomelonGlory.incipit = ""
+meGW.IdiomelonGlory.text=""
 
-meGW.R01 = ""
+meGW.R01=""
 
-meGW.Prayer1.text = ""
+meGW.Prayer1.text=""
 
-meGW.R02 = ""
+meGW.R02=""
 
-meGW.Prayer2.poet = poets_en_UK_notes.lash.SofroniouPatriarchouIerosolymon
-meGW.Prayer2.text = ""
+meGW.Prayer2.poet=poets_en_UK_notes.lash.SofroniouPatriarchouIerosolymon
+meGW.Prayer2.text=""
 
-meGW.R03 = ""
-meGW.Prayer31.text = "" //(ἐκ γʹ)
+meGW.R03=""
+meGW.Prayer31.text="" //(ἐκ γʹ)
 
-meGW.Prayer32.text = ""
+meGW.Prayer32.text=""
 
-meGW.Prayer33.text = "" //(ἐκ γʹ)
+meGW.Prayer33.text="" //(ἐκ γʹ)
 
-meGW.Prayer34.text = ""
+meGW.Prayer34.text=""
 
-meGW.Prayer35.text = "" //(ἐκ γʹ)
+meGW.Prayer35.text="" //(ἐκ γʹ)
 
-meGW.Prayer36.text = ""
+meGW.Prayer36.text=""
 
-meGW.Prayer37.text = "" //(ἐκ γʹ)
+meGW.Prayer37.text="" //(ἐκ γʹ)
 
-meGW.Prayer38.text = ""
+meGW.Prayer38.text=""
 
-meGW.R04 = ""
-meGW.Prayer4.text = ""
+meGW.R04=""
+meGW.Prayer4.text=""
 
-meGW.R05 = ""
-meGW.Prayer5.text = ""
+meGW.R05=""
+meGW.Prayer5.text=""
 
-meGW.R06 = ""
-meGW.Apolytikion.mode = misc_en_UK_notes.lash.Mode1
-meGW.Apolytikion.text = me.m01.d06_en_UK_notes.lash.meVE.Apolytikion1.text
+meGW.R06=""
+meGW.Apolytikion.mode=misc_en_UK_notes.lash.Mode1
+meGW.Apolytikion.incipit = me.m01.d06_en_UK_notes.lash.meVE.Apolytikion1.incipit
+meGW.Apolytikion.text=me.m01.d06_en_UK_notes.lash.meVE.Apolytikion1.text
 
-meGW.R071 = ""
-meGW.R072 = ""
-meGW.R073 = ""
-meGW.R08 = ""
+meGW.R071=""
+meGW.R072=""
+meGW.R073=""
+meGW.R08=""
 
-meGW.Idiomelon4.mode = misc_en_UK_notes.lash.Mode6
-meGW.Idiomelon4.text = me.m01.d12_en_UK_notes.lash.meVE.AposGlory.text
+meGW.Idiomelon4.mode=misc_en_UK_notes.lash.Mode6
+meGW.Idiomelon4.incipit = me.m01.d12_en_UK_notes.lash.meVE.AposGlory.incipit
+meGW.Idiomelon4.text=me.m01.d12_en_UK_notes.lash.meVE.AposGlory.text
 
-meGW.R09 = ""
+meGW.R09=""
 
-meVE.Lity1.poet = poets_en_UK_notes.lash.KosmaMonachou
-meVE.Lity1.mode = misc_en_UK_notes.lash.Mode4
-meVE.Lity1.melody  = ""
-meVE.Lity1.text = ""
+meVE.Lity1.poet=poets_en_UK_notes.lash.KosmaMonachou
+meVE.Lity1.mode=misc_en_UK_notes.lash.Mode4
+meVE.Lity1.melody =""
+meVE.Lity1.incipit = ""
+meVE.Lity1.text=""
 
-meVE.Lity2.mode = misc_en_UK_notes.lash.Mode4
-meVE.Lity2.melody  = ""
-meVE.Lity2.text = ""
-
-meVE.Lity3.mode = misc_en_UK_notes.lash.Mode4
-meVE.Lity3.melody  = ""
-meVE.Lity3.text = ""
-
-meVE.Lity4.mode = misc_en_UK_notes.lash.Mode4
-meVE.Lity4.melody  = ""
-meVE.Lity4.text = ""
-
-meVE.Lity5.mode = misc_en_UK_notes.lash.Mode4
-meVE.Lity5.melody  = ""
-meVE.Lity5.text = ""
-
-meVE.LityGlory.poet =poets_en_UK_notes.lash.IoannouMonachou
-meVE.LityGlory.mode = misc_en_UK_notes.lash.Mode8
-meVE.LityGlory.melody  = ""
-meVE.LityGlory.text = ""
-
-meVE.LityBoth.poet = poets_en_UK_notes.lash.Anatoliou
-meVE.LityBoth.mode = misc_en_UK_notes.lash.Mode8
-meVE.LityBoth.melody  = ""
-meVE.LityBoth.text = ""
-
-meVE.Aposticha1.poet = poets_en_UK_notes.lash.Anatoliou
-meVE.Aposticha1.mode = misc_en_UK_notes.lash.Mode2
-meVE.Aposticha1.melody  = ""
-meVE.Aposticha1.text = ""
-
-meVE.ApostichaVerse2.text = ""
-
-meVE.Aposticha2.mode = misc_en_UK_notes.lash.Mode2
-meVE.Aposticha2.melody  = ""
-meVE.Aposticha2.text = ""
-
-meVE.ApostichaVerse3.text = ""
-
-meVE.Aposticha3.mode = misc_en_UK_notes.lash.Mode2
-meVE.Aposticha3.melody  = ""
-meVE.Aposticha3.text = ""
-
-meVE.AposGlory.poet = poets_en_UK_notes.lash.Theofanous
-meVE.AposGlory.mode = misc_en_UK_notes.lash.Mode6
-meVE.AposGlory.melody  = ""
-meVE.AposGlory.text = ""
-
-meVE.Apolytikion1.mode = misc_en_UK_notes.lash.Mode1
-meVE.Apolytikion1.melody  = ""
-meVE.Apolytikion1.text = ""
-
-meMA.Kathisma11.mode = misc_en_UK_notes.lash.Mode3
-meMA.Kathisma11.melody = he.a.m3_en_UK_notes.lash.TinOraiotita.name
-meMA.Kathisma11.text = ""
-
-meMA.Kathisma21.mode = misc_en_UK_notes.lash.Mode4
-meMA.Kathisma21.melody = he.a.m4_en_UK_notes.lash.KateplagiIosif.name
-meMA.Kathisma21.text = ""
-
-meMA.Kathisma31.mode = misc_en_UK_notes.lash.Mode4
-meMA.Kathisma31.melody = he.a.m4_en_UK_notes.lash.TachyProkatalave.name
-meMA.Kathisma31.text = ""
-
-meMA.Prokeimenon.text = "" //for media
-
-meMA.PostGospelGlory.mode = misc_en_UK_notes.lash.Mode2
-meMA.PostGospelGlory.melody  = ""
-meMA.PostGospelGlory.text = ""
-
-meMA.PostGospelBoth.mode = misc_en_UK_notes.lash.Mode2
-meMA.PostGospelBoth.melody  = ""
-meMA.PostGospelBoth.text = meMA.PostGospelGlory.text 
-
-meMA.PostGospelIdiomelon.mode = misc_en_UK_notes.lash.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
-meMA.PostGospelIdiomelon.text = ""
-
-meMA.C1Poet = poets_en_UK_notes.lash.Kosma
-meMA.C1Acrostic.text = ""
-
-meMA.C2Poet = poets_en_UK_notes.lash.IoannouTouDamaskinou
-meMA.C2Acrostic.text = ""
-meMA.C2Acrostic1.text = ""
-meMA.C2Acrostic2.text = ""
-meMA.C2Acrostic5.text = ""
-meMA.C2Acrostic4.text = ""
-meMA.C2Acrostic5.text = ""
-
-meMA.Ode1C1H.ode = misc_en_UK_notes.lash.Ode1
-meMA.Ode1C1H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode1C1H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode1C1H.text = he.h.m2_en_UK_notes.lash.VythouAnekalypse.text
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
-
-meMA.Ode1C11.ode = misc_en_UK_notes.lash.Ode1
-meMA.Ode1C11.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode1C11.melody = he.h.m2_en_UK_notes.lash.VythouAnekalypse.name
-meMA.Ode1C11.text = ""
-
-meMA.Ode1C12.ode = misc_en_UK_notes.lash.Ode1
-meMA.Ode1C12.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode1C12.melody = he.h.m2_en_UK_notes.lash.VythouAnekalypse.name
-meMA.Ode1C12.text = ""
-
-meMA.Ode1C13.ode = misc_en_UK_notes.lash.Ode1
-meMA.Ode1C13.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode1C13.melody = he.h.m2_en_UK_notes.lash.VythouAnekalypse.name
-meMA.Ode1C13.text = ""
-
-meMA.Ode1C2H.ode = misc_en_UK_notes.lash.Ode1
-meMA.Ode1C2H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode1C2H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode1C2H.text = he.h.m2_en_UK_notes.lash.SteiveiThalassis.text
-meMA.Ode1C2H1.text = he.h.m2_en_UK_notes.lash.SteiveiThalassis1.text
-meMA.Ode1C2H2.text = he.h.m2_en_UK_notes.lash.SteiveiThalassis2.text
-meMA.Ode1C2H3.text = he.h.m2_en_UK_notes.lash.SteiveiThalassis3.text
-meMA.Ode1C2H4.text = he.h.m2_en_UK_notes.lash.SteiveiThalassis4.text
-meMA.Ode1C2H5.text = he.h.m2_en_UK_notes.lash.SteiveiThalassis5.text
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
-
-meMA.Ode1C21.ode = misc_en_UK_notes.lash.Ode1
-meMA.Ode1C21.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode1C21.melody = he.h.m2_en_UK_notes.lash.SteiveiThalassis.name
-meMA.Ode1C21.text = ""
-meMA.Ode1C211.text = ""
-meMA.Ode1C212.text = ""
-meMA.Ode1C213.text = ""
-meMA.Ode1C214.text = ""
-meMA.Ode1C215.text = ""
-
-meMA.Ode1C22.ode = misc_en_UK_notes.lash.Ode1
-meMA.Ode1C22.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode1C22.melody = he.h.m2_en_UK_notes.lash.SteiveiThalassis.name
-meMA.Ode1C22.text = ""
-meMA.Ode1C221.text = ""
-meMA.Ode1C222.text = ""
-meMA.Ode1C223.text = ""
-meMA.Ode1C224.text = ""
-meMA.Ode1C225.text = ""
-
-meMA.Ode3C1H.ode = misc_en_UK_notes.lash.Ode3
-meMA.Ode3C1H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode3C1H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode3C1H.text = he.h.m2_en_UK_notes.lash.IschynODidous.text
-
-meMA.Ode3C11.ode = misc_en_UK_notes.lash.Ode3
-meMA.Ode3C11.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode3C11.melody = he.h.m2_en_UK_notes.lash.IschynODidous.name
-meMA.Ode3C11.text = ""
-
-meMA.Ode3C12.ode = misc_en_UK_notes.lash.Ode3
-meMA.Ode3C12.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode3C12.melody = he.h.m2_en_UK_notes.lash.IschynODidous.name
-meMA.Ode3C12.text = ""
-
-meMA.Ode3C2H.ode = misc_en_UK_notes.lash.Ode3
-meMA.Ode3C2H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode3C2H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode3C2H.text = he.h.m2_en_UK_notes.lash.OsoiPalaion.text
-meMA.Ode3C2H1.text = he.h.m2_en_UK_notes.lash.OsoiPalaion1.text
-meMA.Ode3C2H2.text = he.h.m2_en_UK_notes.lash.OsoiPalaion2.text
-meMA.Ode3C2H3.text = he.h.m2_en_UK_notes.lash.OsoiPalaion3.text
-meMA.Ode3C2H4.text = he.h.m2_en_UK_notes.lash.OsoiPalaion4.text
-meMA.Ode3C2H5.text = he.h.m2_en_UK_notes.lash.OsoiPalaion5.text
-
-meMA.Ode3C21.ode = misc_en_UK_notes.lash.Ode3
-meMA.Ode3C21.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode3C21.melody = he.h.m2_en_UK_notes.lash.OsoiPalaion.name
-meMA.Ode3C21.text = ""
-meMA.Ode3C211.text = ""
-meMA.Ode3C212.text = ""
-meMA.Ode3C213.text = ""
-meMA.Ode3C214.text = ""
-meMA.Ode3C215.text = ""
-
-meMA.Ode3C22.ode = misc_en_UK_notes.lash.Ode3
-meMA.Ode3C22.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode3C22.melody = he.h.m2_en_UK_notes.lash.OsoiPalaion.name
-meMA.Ode3C22.text = ""
-meMA.Ode3C221.text = ""
-meMA.Ode3C222.text = ""
-meMA.Ode3C223.text = ""
-meMA.Ode3C224.text = ""
-meMA.Ode3C225.text = ""
-
-meMA.Hypakoe.mode = misc_en_UK_notes.lash.Mode5
-meMA.Hypakoe.melody  = ""
-meMA.Hypakoe.text = ""
-
-meMA.Ode4C1H.ode = misc_en_UK_notes.lash.Ode4
-meMA.Ode4C1H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode4C1H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode4C1H.text = he.h.m2_en_UK_notes.lash.AkikoeKyrieFonisSou.text
-
-meMA.Ode4C11.ode = misc_en_UK_notes.lash.Ode4
-meMA.Ode4C11.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode4C11.melody = he.h.m2_en_UK_notes.lash.AkikoeKyrieFonisSou.name
-meMA.Ode4C11.text = ""
-
-meMA.Ode4C12.ode = misc_en_UK_notes.lash.Ode4
-meMA.Ode4C12.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode4C12.melody = he.h.m2_en_UK_notes.lash.AkikoeKyrieFonisSou.name
-meMA.Ode4C12.text = ""
-
-meMA.Ode4C13.ode = misc_en_UK_notes.lash.Ode4
-meMA.Ode4C13.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode4C13.melody = he.h.m2_en_UK_notes.lash.AkikoeKyrieFonisSou.name
-meMA.Ode4C13.text = ""
-
-meMA.Ode4C2H.ode = misc_en_UK_notes.lash.Ode4
-meMA.Ode4C2H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode4C2H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode4C2H.text = he.h.m2_en_UK_notes.lash.PyrsoKathartheis.text
-meMA.Ode4C2H1.text = he.h.m2_en_UK_notes.lash.PyrsoKathartheis1.text
-meMA.Ode4C2H2.text = he.h.m2_en_UK_notes.lash.PyrsoKathartheis2.text
-meMA.Ode4C2H3.text = he.h.m2_en_UK_notes.lash.PyrsoKathartheis3.text
-meMA.Ode4C2H4.text = he.h.m2_en_UK_notes.lash.PyrsoKathartheis4.text
-meMA.Ode4C2H5.text = he.h.m2_en_UK_notes.lash.PyrsoKathartheis5.text
-
-meMA.Ode4C21.ode = misc_en_UK_notes.lash.Ode4
-meMA.Ode4C21.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode4C21.melody = he.h.m2_en_UK_notes.lash.PyrsoKathartheis.name
-meMA.Ode4C21.text = ""
-meMA.Ode4C211.text = ""
-meMA.Ode4C212.text = ""
-meMA.Ode4C213.text = ""
-meMA.Ode4C214.text = ""
-meMA.Ode4C215.text = ""
-
-meMA.Ode4C22.ode = misc_en_UK_notes.lash.Ode4
-meMA.Ode4C22.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode4C22.melody = he.h.m2_en_UK_notes.lash.PyrsoKathartheis.name
-meMA.Ode4C22.text = ""
-meMA.Ode4C221.text = ""
-meMA.Ode4C222.text = ""
-meMA.Ode4C223.text = ""
-meMA.Ode4C224.text = ""
-meMA.Ode4C225.text = ""
-
-meMA.Ode4C23.ode = misc_en_UK_notes.lash.Ode4
-meMA.Ode4C23.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode4C23.melody = he.h.m2_en_UK_notes.lash.PyrsoKathartheis.name
-meMA.Ode4C23.text = ""
-meMA.Ode4C231.text = ""
-meMA.Ode4C232.text = ""
-meMA.Ode4C233.text = ""
-meMA.Ode4C234.text = ""
-meMA.Ode4C235.text = ""
-
-meMA.Ode5C1H.ode = misc_en_UK_notes.lash.Ode5
-meMA.Ode5C1H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode5C1H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode5C1H.text = he.h.m2_en_UK_notes.lash.IisousOZoisArchigos.text
-
-meMA.Ode5C11.ode = misc_en_UK_notes.lash.Ode5
-meMA.Ode5C11.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode5C11.melody = he.h.m2_en_UK_notes.lash.IisousOZoisArchigos.name
-meMA.Ode5C11.text = ""
-
-meMA.Ode5C12.ode = misc_en_UK_notes.lash.Ode5
-meMA.Ode5C12.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode5C12.melody = he.h.m2_en_UK_notes.lash.IisousOZoisArchigos.name
-meMA.Ode5C12.text = ""
-
-meMA.Ode5C2H.ode = misc_en_UK_notes.lash.Ode5
-meMA.Ode5C2H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode5C2H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode5C2H.text = he.h.m2_en_UK_notes.lash.EchthrouZofodous.text
-meMA.Ode5C2H1.text = he.h.m2_en_UK_notes.lash.EchthrouZofodous1.text
-meMA.Ode5C2H2.text = he.h.m2_en_UK_notes.lash.EchthrouZofodous2.text
-meMA.Ode5C2H3.text = he.h.m2_en_UK_notes.lash.EchthrouZofodous3.text
-meMA.Ode5C2H4.text = he.h.m2_en_UK_notes.lash.EchthrouZofodous4.text
-meMA.Ode5C2H5.text = he.h.m2_en_UK_notes.lash.EchthrouZofodous5.text
-
-meMA.Ode5C21.ode = misc_en_UK_notes.lash.Ode5
-meMA.Ode5C21.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode5C21.melody = he.h.m2_en_UK_notes.lash.EchthrouZofodous.name
-meMA.Ode5C21.text = ""
-meMA.Ode5C211.text = ""
-meMA.Ode5C212.text = ""
-meMA.Ode5C213.text = ""
-meMA.Ode5C214.text = ""
-meMA.Ode5C215.text = ""
-
-meMA.Ode5C22.ode = misc_en_UK_notes.lash.Ode5
-meMA.Ode5C22.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode5C22.melody = he.h.m2_en_UK_notes.lash.EchthrouZofodous.name
-meMA.Ode5C22.text = ""
-meMA.Ode5C221.text = ""
-meMA.Ode5C222.text = ""
-meMA.Ode5C223.text = ""
-meMA.Ode5C224.text = ""
-meMA.Ode5C225.text = ""
-
-meMA.Ode6C1H.ode = misc_en_UK_notes.lash.Ode6
-meMA.Ode6C1H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode6C1H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode6C1H.text = he.h.m2_en_UK_notes.lash.IFoniTouLogou.text
-
-meMA.Ode6C11.ode = misc_en_UK_notes.lash.Ode6
-meMA.Ode6C11.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode6C11.melody = he.h.m2_en_UK_notes.lash.IFoniTouLogou.name
-meMA.Ode6C11.text = ""
-
-meMA.Ode6C12.ode = misc_en_UK_notes.lash.Ode6
-meMA.Ode6C12.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode6C12.melody = he.h.m2_en_UK_notes.lash.IFoniTouLogou.name
-meMA.Ode6C12.text = ""
-
-meMA.Ode6C2H.ode = misc_en_UK_notes.lash.Ode6
-meMA.Ode6C2H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode6C2H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode6C2H.text = he.h.m2_en_UK_notes.lash.ImertonExefine.text
-meMA.Ode6C2H1.text = he.h.m2_en_UK_notes.lash.ImertonExefine1.text
-meMA.Ode6C2H2.text = he.h.m2_en_UK_notes.lash.ImertonExefine2.text
-meMA.Ode6C2H3.text = he.h.m2_en_UK_notes.lash.ImertonExefine3.text
-meMA.Ode6C2H4.text = he.h.m2_en_UK_notes.lash.ImertonExefine4.text
-meMA.Ode6C2H5.text = he.h.m2_en_UK_notes.lash.ImertonExefine5.text
-
-meMA.Ode6C21.ode = misc_en_UK_notes.lash.Ode6
-meMA.Ode6C21.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode6C21.melody  = ""
-meMA.Ode6C21.text = ""
-meMA.Ode6C211.text = ""
-meMA.Ode6C212.text = ""
-meMA.Ode6C213.text = ""
-meMA.Ode6C214.text = ""
-meMA.Ode6C215.text = ""
-
-meMA.Ode6C22.ode = misc_en_UK_notes.lash.Ode6
-meMA.Ode6C22.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode6C22.melody  = ""
-meMA.Ode6C22.text = ""
-meMA.Ode6C221.text = ""
-meMA.Ode6C222.text = ""
-meMA.Ode6C223.text = ""
-meMA.Ode6C224.text = ""
-meMA.Ode6C225.text = ""
-
-meMA.Kontakion1.poet = poets_en_UK_notes.lash.RomanouTouMelodou
-meMA.Kontakion1.mode = misc_en_UK_notes.lash.Mode4
-meMA.Kontakion1.melody = misc_en_UK_notes.lash.Automelon
-meMA.Kontakion1.text = he.a.m4_en_UK_notes.lash.EpefanisSimeron.text
-
-meMA.Oikos1.text = ""
-
-meMA.Synaxarion.text  = ""
-
-meMA.Ode7C1H.ode = misc_en_UK_notes.lash.Ode7
-meMA.Ode7C1H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode7C1H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode7C1H.text = he.h.m2_en_UK_notes.lash.NeousEfseveis.text
-
-meMA.Ode7C11.ode = misc_en_UK_notes.lash.Ode7
-meMA.Ode7C11.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode7C11.melody = he.h.m2_en_UK_notes.lash.NeousEfseveis.name
-meMA.Ode7C11.text = ""
-
-meMA.Ode7C12.ode = misc_en_UK_notes.lash.Ode7
-meMA.Ode7C12.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode7C12.melody = he.h.m2_en_UK_notes.lash.NeousEfseveis.name
-meMA.Ode7C12.text = ""
-
-meMA.Ode7C13.ode = misc_en_UK_notes.lash.Ode7
-meMA.Ode7C13.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode7C13.melody = he.h.m2_en_UK_notes.lash.NeousEfseveis.name
-meMA.Ode7C13.text = ""
-
-meMA.Ode7C2H.ode = misc_en_UK_notes.lash.Ode7
-meMA.Ode7C2H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode7C2H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode7C2H.text = he.h.m2_en_UK_notes.lash.EflexeReithro.text
-meMA.Ode7C2H1.text = he.h.m2_en_UK_notes.lash.EflexeReithro1.text
-meMA.Ode7C2H2.text = he.h.m2_en_UK_notes.lash.EflexeReithro2.text
-meMA.Ode7C2H3.text = he.h.m2_en_UK_notes.lash.EflexeReithro3.text
-meMA.Ode7C2H4.text = he.h.m2_en_UK_notes.lash.EflexeReithro4.text
-meMA.Ode7C2H5.text = he.h.m2_en_UK_notes.lash.EflexeReithro5.text
-
-meMA.Ode7C21.ode = misc_en_UK_notes.lash.Ode7
-meMA.Ode7C21.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode7C21.melody = he.h.m2_en_UK_notes.lash.EflexeReithro.name
-meMA.Ode7C21.text = ""
-meMA.Ode7C211.text = ""
-meMA.Ode7C212.text = ""
-meMA.Ode7C213.text = ""
-meMA.Ode7C214.text = ""
-meMA.Ode7C215.text = ""
-
-meMA.Ode7C22.ode = misc_en_UK_notes.lash.Ode7
-meMA.Ode7C22.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode7C22.melody = he.h.m2_en_UK_notes.lash.EflexeReithro.name
-meMA.Ode7C22.text = ""
-meMA.Ode7C221.text = ""
-meMA.Ode7C222.text = ""
-meMA.Ode7C223.text = ""
-meMA.Ode7C224.text = ""
-meMA.Ode7C225.text = ""
-
-meMA.Ode7C23.ode = misc_en_UK_notes.lash.Ode7
-meMA.Ode7C23.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode7C23.melody = he.h.m2_en_UK_notes.lash.EflexeReithro.name
-meMA.Ode7C23.text = ""
-meMA.Ode7C231.text = ""
-meMA.Ode7C232.text = ""
-meMA.Ode7C233.text = ""
-meMA.Ode7C234.text = ""
-meMA.Ode7C235.text = ""
-
-meMA.Ode8C1H.ode = misc_en_UK_notes.lash.Ode8
-meMA.Ode8C1H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode8C1H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode8C1H.text = he.h.m2_en_UK_notes.lash.MystirionParadoxon.text
-
-meMA.Ode8C11.ode = misc_en_UK_notes.lash.Ode8
-meMA.Ode8C11.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode8C11.melody = he.h.m2_en_UK_notes.lash.MystirionParadoxon.name
-meMA.Ode8C11.text = ""
-
-meMA.Ode8C12.ode = misc_en_UK_notes.lash.Ode8
-meMA.Ode8C12.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode8C12.melody = he.h.m2_en_UK_notes.lash.MystirionParadoxon.name
-meMA.Ode8C12.text = ""
-
-meMA.Ode8C13.ode = misc_en_UK_notes.lash.Ode8
-meMA.Ode8C13.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode8C13.melody = he.h.m2_en_UK_notes.lash.MystirionParadoxon.name
-meMA.Ode8C13.text = ""
-
-meMA.Ode8C2H.ode = misc_en_UK_notes.lash.Ode8
-meMA.Ode8C2H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode8C2H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode8C2H.text = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis.text
-meMA.Ode8C2H1.text = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis1.text
-meMA.Ode8C2H2.text = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis2.text
-meMA.Ode8C2H3.text = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis3.text
-meMA.Ode8C2H4.text = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis4.text
-meMA.Ode8C2H5.text = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis5.text
-
-meMA.Ode8C21.ode = misc_en_UK_notes.lash.Ode8
-meMA.Ode8C21.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode8C21.melody = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis.name
-meMA.Ode8C21.text = ""
-meMA.Ode8C211.text = ""
-meMA.Ode8C212.text = ""
-meMA.Ode8C213.text = ""
-meMA.Ode8C214.text = ""
-meMA.Ode8C215.text = ""
-
-meMA.Ode8C22.ode = misc_en_UK_notes.lash.Ode8
-meMA.Ode8C22.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode8C22.melody = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis.name
-meMA.Ode8C22.text = ""
-meMA.Ode8C221.text = ""
-meMA.Ode8C222.text = ""
-meMA.Ode8C223.text = ""
-meMA.Ode8C224.text = ""
-meMA.Ode8C225.text = ""
-
-meMA.Ode9C1M01.text = ""
-meMA.Ode9C1M02.text = ""
-meMA.Ode9C1M03.text = ""
-meMA.Ode9C1M04.text = ""
-meMA.Ode9C1M05.text = ""
-meMA.Ode9C1M06.text = ""
-meMA.Ode9C1M07.text = ""
-
-meMA.Ode9C2M01.text = ""
-meMA.Ode9C2M02.text = ""
-meMA.Ode9C2M03.text = ""
-meMA.Ode9C2M04.text = ""
-meMA.Ode9C2M05.text = ""
-meMA.Ode9C2M06.text = ""
-meMA.Ode9C2MTr.text = ""
-meMA.Ode9C2MTh.text = ""
-
-meMA.Ode9C1H.ode = misc_en_UK_notes.lash.Ode9
-meMA.Ode9C1H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode9C1H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode9C1H.text = he.h.m2_en_UK_notes.lash.AporeiPasaGlossa.text
-
-meMA.Ode9C11.ode = misc_en_UK_notes.lash.Ode9
-meMA.Ode9C11.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode9C11.melody = he.h.m2_en_UK_notes.lash.AporeiPasaGlossa.name
-meMA.Ode9C11.text = ""
-
-meMA.Ode9C12.ode = misc_en_UK_notes.lash.Ode9
-meMA.Ode9C12.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode9C12.melody = he.h.m2_en_UK_notes.lash.AporeiPasaGlossa.name
-meMA.Ode9C12.text = ""
-
-meMA.Ode9C13.ode = misc_en_UK_notes.lash.Ode9
-meMA.Ode9C13.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode9C13.melody = he.h.m2_en_UK_notes.lash.AporeiPasaGlossa.name
-meMA.Ode9C13.text = ""
-
-meMA.Ode9C2H.ode = misc_en_UK_notes.lash.Ode9
-meMA.Ode9C2H.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode9C2H.melody = misc_en_UK_notes.lash.Heirmos
-meMA.Ode9C2H.text = he.h.m2_en_UK_notes.lash.OTonYperNoun.text
-meMA.Ode9C2H1.text = he.h.m2_en_UK_notes.lash.OTonYperNoun1.text
-meMA.Ode9C2H2.text = he.h.m2_en_UK_notes.lash.OTonYperNoun2.text
-meMA.Ode9C2H3.text = he.h.m2_en_UK_notes.lash.OTonYperNoun3.text
-meMA.Ode9C2H4.text = he.h.m2_en_UK_notes.lash.OTonYperNoun4.text
-meMA.Ode9C2H5.text = he.h.m2_en_UK_notes.lash.OTonYperNoun5.text
-
-meMA.Ode9C21.ode = misc_en_UK_notes.lash.Ode9
-meMA.Ode9C21.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode9C21.melody = he.h.m2_en_UK_notes.lash.OTonYperNoun.mode
-meMA.Ode9C21.text = ""
-meMA.Ode9C211.text = ""
-meMA.Ode9C212.text = ""
-meMA.Ode9C213.text = ""
-meMA.Ode9C214.text = ""
-meMA.Ode9C215.text = ""
-
-meMA.Ode9C22.ode = misc_en_UK_notes.lash.Ode9
-meMA.Ode9C22.mode = misc_en_UK_notes.lash.Mode2
-meMA.Ode9C22.melody = he.h.m2_en_UK_notes.lash.OTonYperNoun.mode
-meMA.Ode9C22.text = ""
-meMA.Ode9C221.text = ""
-meMA.Ode9C222.text = ""
-meMA.Ode9C223.text = ""
-meMA.Ode9C224.text = ""
-meMA.Ode9C225.text = ""
-
-meMA.Exaposteilarion1.poet  = ""
-meMA.Exaposteilarion1.mode = misc_en_UK_notes.lash.Mode3
-meMA.Exaposteilarion1.melody = misc_en_UK_notes.lash.Automelon
-meMA.Exaposteilarion1.text = he.a.m3_en_UK_notes.lash.EpefaniOSotir.text
-
-meMA.Lauds1.poet = poets_en_UK_notes.lash.GermanouPatriarchou
-meMA.Lauds1.mode = misc_en_UK_notes.lash.Mode1
-meMA.Lauds1.melody = misc_en_UK_notes.lash.Idiomelon
-meMA.Lauds1.text = ""
-
-meMA.Lauds2.mode = misc_en_UK_notes.lash.Mode1
-meMA.Lauds2.melody = misc_en_UK_notes.lash.Idiomelon
-meMA.Lauds2.text = ""
-
-meMA.Lauds3.mode = misc_en_UK_notes.lash.Mode1
-meMA.Lauds3.melody = misc_en_UK_notes.lash.Idiomelon
-meMA.Lauds3.text = ""
-
-meMA.Lauds4.mode = misc_en_UK_notes.lash.Mode1
-meMA.Lauds4.melody = misc_en_UK_notes.lash.Idiomelon
-meMA.Lauds4.text = ""
-
-meMA.Lauds5.poet = poets_en_UK_notes.lash.AndreouIerosolymitou
-meMA.Lauds5.mode = misc_en_UK_notes.lash.Mode1
-meMA.Lauds5.melody = misc_en_UK_notes.lash.Idiomelon
-meMA.Lauds5.text = ""
-
-meMA.LaudsGlory.poet = poets_en_UK_notes.lash.Anatoliou
-meMA.LaudsGlory.mode = misc_en_UK_notes.lash.Mode6
-meMA.LaudsGlory.melody = misc_en_UK_notes.lash.Idiomelon
-meMA.LaudsGlory.text = ""
-
-meMA.LaudsBoth.poet = poets_en_UK_notes.lash.Anatoliou
-meMA.LaudsBoth.mode = misc_en_UK_notes.lash.Mode2
-meMA.LaudsBoth.melody = misc_en_UK_notes.lash.Idiomelon
-meMA.LaudsBoth.text = ""
+meVE.Lity2.mode=misc_en_UK_notes.lash.Mode4
+meVE.Lity2.melody =""
+meVE.Lity2.incipit = ""
+meVE.Lity2.text=""
+
+meVE.Lity3.mode=misc_en_UK_notes.lash.Mode4
+meVE.Lity3.melody =""
+meVE.Lity3.incipit = ""
+meVE.Lity3.text=""
+
+meVE.Lity4.mode=misc_en_UK_notes.lash.Mode4
+meVE.Lity4.melody =""
+meVE.Lity4.incipit = ""
+meVE.Lity4.text=""
+
+meVE.Lity5.mode=misc_en_UK_notes.lash.Mode4
+meVE.Lity5.melody =""
+meVE.Lity5.incipit = ""
+meVE.Lity5.text=""
+
+meVE.LityGlory.poet=poets_en_UK_notes.lash.IoannouMonachou
+meVE.LityGlory.mode=misc_en_UK_notes.lash.Mode8
+meVE.LityGlory.melody =""
+meVE.LityGlory.incipit = ""
+meVE.LityGlory.text=""
+
+meVE.LityBoth.poet=poets_en_UK_notes.lash.Anatoliou
+meVE.LityBoth.mode=misc_en_UK_notes.lash.Mode8
+meVE.LityBoth.melody =""
+meVE.LityBoth.incipit = ""
+meVE.LityBoth.text=""
+
+meVE.Aposticha1.poet=poets_en_UK_notes.lash.Anatoliou
+meVE.Aposticha1.mode=misc_en_UK_notes.lash.Mode2
+meVE.Aposticha1.melody =""
+meVE.Aposticha1.incipit = ""
+meVE.Aposticha1.text=""
+
+meVE.ApostichaVerse2.text=""
+
+meVE.Aposticha2.mode=misc_en_UK_notes.lash.Mode2
+meVE.Aposticha2.melody =""
+meVE.Aposticha2.incipit = ""
+meVE.Aposticha2.text=""
+
+meVE.ApostichaVerse3.text=""
+
+meVE.Aposticha3.mode=misc_en_UK_notes.lash.Mode2
+meVE.Aposticha3.melody =""
+meVE.Aposticha3.incipit = ""
+meVE.Aposticha3.text=""
+
+meVE.AposGlory.poet=poets_en_UK_notes.lash.Theofanous
+meVE.AposGlory.mode=misc_en_UK_notes.lash.Mode6
+meVE.AposGlory.melody =""
+meVE.AposGlory.incipit = ""
+meVE.AposGlory.text=""
+
+meVE.Apolytikion1.mode=misc_en_UK_notes.lash.Mode1
+meVE.Apolytikion1.melody =""
+meVE.Apolytikion1.incipit = ""
+meVE.Apolytikion1.text=""
+
+meMA.Kathisma11.mode=misc_en_UK_notes.lash.Mode3
+meMA.Kathisma11.melody=he.a.m3_en_UK_notes.lash.TinOraiotita.name
+meMA.Kathisma11.incipit = ""
+meMA.Kathisma11.text=""
+
+meMA.Kathisma21.mode=misc_en_UK_notes.lash.Mode4
+meMA.Kathisma21.melody=he.a.m4_en_UK_notes.lash.KateplagiIosif.name
+meMA.Kathisma21.incipit = ""
+meMA.Kathisma21.text=""
+
+meMA.Kathisma31.mode=misc_en_UK_notes.lash.Mode4
+meMA.Kathisma31.melody=he.a.m4_en_UK_notes.lash.TachyProkatalave.name
+meMA.Kathisma31.incipit = ""
+meMA.Kathisma31.text=""
+
+meMA.Prokeimenon.text="" //for media
+
+meMA.PostGospelGlory.mode=misc_en_UK_notes.lash.Mode2
+meMA.PostGospelGlory.melody =""
+meMA.PostGospelGlory.incipit = ""
+meMA.PostGospelGlory.text=""
+
+meMA.PostGospelBoth.mode=misc_en_UK_notes.lash.Mode2
+meMA.PostGospelBoth.melody =""
+meMA.PostGospelBoth.incipit = meMA.PostGospelGlory.incipit
+meMA.PostGospelBoth.text=meMA.PostGospelGlory.text
+
+meMA.PostGospelIdiomelon.mode=misc_en_UK_notes.lash.Mode6
+meMA.PostGospelIdiomelon.melody =""
+meMA.PostGospelIdiomelon.incipit = ""
+meMA.PostGospelIdiomelon.text=""
+
+meMA.C1Poet=poets_en_UK_notes.lash.Kosma
+meMA.C1Acrostic.text=""
+
+meMA.C2Poet=poets_en_UK_notes.lash.IoannouTouDamaskinou
+meMA.C2Acrostic.text=""
+meMA.C2Acrostic1.text=""
+meMA.C2Acrostic2.text=""
+meMA.C2Acrostic5.text=""
+meMA.C2Acrostic4.text=""
+meMA.C2Acrostic5.text=""
+
+meMA.Ode1C1H.ode=misc_en_UK_notes.lash.Ode1
+meMA.Ode1C1H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode1C1H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode1C1H.incipit = he.h.m2_en_UK_notes.lash.VythouAnekalypse.incipit
+meMA.Ode1C1H.text=he.h.m2_en_UK_notes.lash.VythouAnekalypse.text
+
+meMA.C1.title=""
+meMA.C1.verse=""
+
+meMA.Ode1C11.ode=misc_en_UK_notes.lash.Ode1
+meMA.Ode1C11.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode1C11.melody=he.h.m2_en_UK_notes.lash.VythouAnekalypse.name
+meMA.Ode1C11.incipit = ""
+meMA.Ode1C11.text=""
+
+meMA.Ode1C12.ode=misc_en_UK_notes.lash.Ode1
+meMA.Ode1C12.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode1C12.melody=he.h.m2_en_UK_notes.lash.VythouAnekalypse.name
+meMA.Ode1C12.incipit = ""
+meMA.Ode1C12.text=""
+
+meMA.Ode1C13.ode=misc_en_UK_notes.lash.Ode1
+meMA.Ode1C13.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode1C13.melody=he.h.m2_en_UK_notes.lash.VythouAnekalypse.name
+meMA.Ode1C13.incipit = ""
+meMA.Ode1C13.text=""
+
+meMA.Ode1C2H.ode=misc_en_UK_notes.lash.Ode1
+meMA.Ode1C2H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode1C2H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode1C2H.incipit = he.h.m2_en_UK_notes.lash.SteiveiThalassis.incipit
+meMA.Ode1C2H.text=he.h.m2_en_UK_notes.lash.SteiveiThalassis.text
+meMA.Ode1C2H1.incipit = he.h.m2_en_UK_notes.lash.SteiveiThalassis1.incipit
+meMA.Ode1C2H1.text=he.h.m2_en_UK_notes.lash.SteiveiThalassis1.text
+meMA.Ode1C2H2.incipit = he.h.m2_en_UK_notes.lash.SteiveiThalassis2.incipit
+meMA.Ode1C2H2.text=he.h.m2_en_UK_notes.lash.SteiveiThalassis2.text
+meMA.Ode1C2H3.incipit = he.h.m2_en_UK_notes.lash.SteiveiThalassis3.incipit
+meMA.Ode1C2H3.text=he.h.m2_en_UK_notes.lash.SteiveiThalassis3.text
+meMA.Ode1C2H4.incipit = he.h.m2_en_UK_notes.lash.SteiveiThalassis4.incipit
+meMA.Ode1C2H4.text=he.h.m2_en_UK_notes.lash.SteiveiThalassis4.text
+meMA.Ode1C2H5.incipit = he.h.m2_en_UK_notes.lash.SteiveiThalassis5.incipit
+meMA.Ode1C2H5.text=he.h.m2_en_UK_notes.lash.SteiveiThalassis5.text
+
+meMA.C2.title=""
+meMA.C2.verse=""
+
+meMA.Ode1C21.ode=misc_en_UK_notes.lash.Ode1
+meMA.Ode1C21.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode1C21.melody=he.h.m2_en_UK_notes.lash.SteiveiThalassis.name
+meMA.Ode1C21.incipit = ""
+meMA.Ode1C21.text=""
+meMA.Ode1C211.incipit = ""
+meMA.Ode1C211.text=""
+meMA.Ode1C212.incipit = ""
+meMA.Ode1C212.text=""
+meMA.Ode1C213.incipit = ""
+meMA.Ode1C213.text=""
+meMA.Ode1C214.incipit = ""
+meMA.Ode1C214.text=""
+meMA.Ode1C215.incipit = ""
+meMA.Ode1C215.text=""
+
+meMA.Ode1C22.ode=misc_en_UK_notes.lash.Ode1
+meMA.Ode1C22.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode1C22.melody=he.h.m2_en_UK_notes.lash.SteiveiThalassis.name
+meMA.Ode1C22.incipit = ""
+meMA.Ode1C22.text=""
+meMA.Ode1C221.incipit = ""
+meMA.Ode1C221.text=""
+meMA.Ode1C222.incipit = ""
+meMA.Ode1C222.text=""
+meMA.Ode1C223.incipit = ""
+meMA.Ode1C223.text=""
+meMA.Ode1C224.incipit = ""
+meMA.Ode1C224.text=""
+meMA.Ode1C225.incipit = ""
+meMA.Ode1C225.text=""
+
+meMA.Ode3C1H.ode=misc_en_UK_notes.lash.Ode3
+meMA.Ode3C1H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode3C1H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode3C1H.incipit = he.h.m2_en_UK_notes.lash.IschynODidous.incipit
+meMA.Ode3C1H.text=he.h.m2_en_UK_notes.lash.IschynODidous.text
+
+meMA.Ode3C11.ode=misc_en_UK_notes.lash.Ode3
+meMA.Ode3C11.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode3C11.melody=he.h.m2_en_UK_notes.lash.IschynODidous.name
+meMA.Ode3C11.incipit = ""
+meMA.Ode3C11.text=""
+
+meMA.Ode3C12.ode=misc_en_UK_notes.lash.Ode3
+meMA.Ode3C12.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode3C12.melody=he.h.m2_en_UK_notes.lash.IschynODidous.name
+meMA.Ode3C12.incipit = ""
+meMA.Ode3C12.text=""
+
+meMA.Ode3C2H.ode=misc_en_UK_notes.lash.Ode3
+meMA.Ode3C2H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode3C2H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode3C2H.incipit = he.h.m2_en_UK_notes.lash.OsoiPalaion.incipit
+meMA.Ode3C2H.text=he.h.m2_en_UK_notes.lash.OsoiPalaion.text
+meMA.Ode3C2H1.incipit = he.h.m2_en_UK_notes.lash.OsoiPalaion1.incipit
+meMA.Ode3C2H1.text=he.h.m2_en_UK_notes.lash.OsoiPalaion1.text
+meMA.Ode3C2H2.incipit = he.h.m2_en_UK_notes.lash.OsoiPalaion2.incipit
+meMA.Ode3C2H2.text=he.h.m2_en_UK_notes.lash.OsoiPalaion2.text
+meMA.Ode3C2H3.incipit = he.h.m2_en_UK_notes.lash.OsoiPalaion3.incipit
+meMA.Ode3C2H3.text=he.h.m2_en_UK_notes.lash.OsoiPalaion3.text
+meMA.Ode3C2H4.incipit = he.h.m2_en_UK_notes.lash.OsoiPalaion4.incipit
+meMA.Ode3C2H4.text=he.h.m2_en_UK_notes.lash.OsoiPalaion4.text
+meMA.Ode3C2H5.incipit = he.h.m2_en_UK_notes.lash.OsoiPalaion5.incipit
+meMA.Ode3C2H5.text=he.h.m2_en_UK_notes.lash.OsoiPalaion5.text
+
+meMA.Ode3C21.ode=misc_en_UK_notes.lash.Ode3
+meMA.Ode3C21.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode3C21.melody=he.h.m2_en_UK_notes.lash.OsoiPalaion.name
+meMA.Ode3C21.incipit = ""
+meMA.Ode3C21.text=""
+meMA.Ode3C211.incipit = ""
+meMA.Ode3C211.text=""
+meMA.Ode3C212.incipit = ""
+meMA.Ode3C212.text=""
+meMA.Ode3C213.incipit = ""
+meMA.Ode3C213.text=""
+meMA.Ode3C214.incipit = ""
+meMA.Ode3C214.text=""
+meMA.Ode3C215.incipit = ""
+meMA.Ode3C215.text=""
+
+meMA.Ode3C22.ode=misc_en_UK_notes.lash.Ode3
+meMA.Ode3C22.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode3C22.melody=he.h.m2_en_UK_notes.lash.OsoiPalaion.name
+meMA.Ode3C22.incipit = ""
+meMA.Ode3C22.text=""
+meMA.Ode3C221.incipit = ""
+meMA.Ode3C221.text=""
+meMA.Ode3C222.incipit = ""
+meMA.Ode3C222.text=""
+meMA.Ode3C223.incipit = ""
+meMA.Ode3C223.text=""
+meMA.Ode3C224.incipit = ""
+meMA.Ode3C224.text=""
+meMA.Ode3C225.incipit = ""
+meMA.Ode3C225.text=""
+
+meMA.Hypakoe.mode=misc_en_UK_notes.lash.Mode5
+meMA.Hypakoe.melody =""
+meMA.Hypakoe.incipit = ""
+meMA.Hypakoe.text=""
+
+meMA.Ode4C1H.ode=misc_en_UK_notes.lash.Ode4
+meMA.Ode4C1H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode4C1H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode4C1H.incipit = he.h.m2_en_UK_notes.lash.AkikoeKyrieFonisSou.incipit
+meMA.Ode4C1H.text=he.h.m2_en_UK_notes.lash.AkikoeKyrieFonisSou.text
+
+meMA.Ode4C11.ode=misc_en_UK_notes.lash.Ode4
+meMA.Ode4C11.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode4C11.melody=he.h.m2_en_UK_notes.lash.AkikoeKyrieFonisSou.name
+meMA.Ode4C11.incipit = ""
+meMA.Ode4C11.text=""
+
+meMA.Ode4C12.ode=misc_en_UK_notes.lash.Ode4
+meMA.Ode4C12.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode4C12.melody=he.h.m2_en_UK_notes.lash.AkikoeKyrieFonisSou.name
+meMA.Ode4C12.incipit = ""
+meMA.Ode4C12.text=""
+
+meMA.Ode4C13.ode=misc_en_UK_notes.lash.Ode4
+meMA.Ode4C13.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode4C13.melody=he.h.m2_en_UK_notes.lash.AkikoeKyrieFonisSou.name
+meMA.Ode4C13.incipit = ""
+meMA.Ode4C13.text=""
+
+meMA.Ode4C2H.ode=misc_en_UK_notes.lash.Ode4
+meMA.Ode4C2H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode4C2H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode4C2H.incipit = he.h.m2_en_UK_notes.lash.PyrsoKathartheis.incipit
+meMA.Ode4C2H.text=he.h.m2_en_UK_notes.lash.PyrsoKathartheis.text
+meMA.Ode4C2H1.incipit = he.h.m2_en_UK_notes.lash.PyrsoKathartheis1.incipit
+meMA.Ode4C2H1.text=he.h.m2_en_UK_notes.lash.PyrsoKathartheis1.text
+meMA.Ode4C2H2.incipit = he.h.m2_en_UK_notes.lash.PyrsoKathartheis2.incipit
+meMA.Ode4C2H2.text=he.h.m2_en_UK_notes.lash.PyrsoKathartheis2.text
+meMA.Ode4C2H3.incipit = he.h.m2_en_UK_notes.lash.PyrsoKathartheis3.incipit
+meMA.Ode4C2H3.text=he.h.m2_en_UK_notes.lash.PyrsoKathartheis3.text
+meMA.Ode4C2H4.incipit = he.h.m2_en_UK_notes.lash.PyrsoKathartheis4.incipit
+meMA.Ode4C2H4.text=he.h.m2_en_UK_notes.lash.PyrsoKathartheis4.text
+meMA.Ode4C2H5.incipit = he.h.m2_en_UK_notes.lash.PyrsoKathartheis5.incipit
+meMA.Ode4C2H5.text=he.h.m2_en_UK_notes.lash.PyrsoKathartheis5.text
+
+meMA.Ode4C21.ode=misc_en_UK_notes.lash.Ode4
+meMA.Ode4C21.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode4C21.melody=he.h.m2_en_UK_notes.lash.PyrsoKathartheis.name
+meMA.Ode4C21.incipit = ""
+meMA.Ode4C21.text=""
+meMA.Ode4C211.incipit = ""
+meMA.Ode4C211.text=""
+meMA.Ode4C212.incipit = ""
+meMA.Ode4C212.text=""
+meMA.Ode4C213.incipit = ""
+meMA.Ode4C213.text=""
+meMA.Ode4C214.incipit = ""
+meMA.Ode4C214.text=""
+meMA.Ode4C215.incipit = ""
+meMA.Ode4C215.text=""
+
+meMA.Ode4C22.ode=misc_en_UK_notes.lash.Ode4
+meMA.Ode4C22.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode4C22.melody=he.h.m2_en_UK_notes.lash.PyrsoKathartheis.name
+meMA.Ode4C22.incipit = ""
+meMA.Ode4C22.text=""
+meMA.Ode4C221.incipit = ""
+meMA.Ode4C221.text=""
+meMA.Ode4C222.incipit = ""
+meMA.Ode4C222.text=""
+meMA.Ode4C223.incipit = ""
+meMA.Ode4C223.text=""
+meMA.Ode4C224.incipit = ""
+meMA.Ode4C224.text=""
+meMA.Ode4C225.incipit = ""
+meMA.Ode4C225.text=""
+
+meMA.Ode4C23.ode=misc_en_UK_notes.lash.Ode4
+meMA.Ode4C23.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode4C23.melody=he.h.m2_en_UK_notes.lash.PyrsoKathartheis.name
+meMA.Ode4C23.incipit = ""
+meMA.Ode4C23.text=""
+meMA.Ode4C231.incipit = ""
+meMA.Ode4C231.text=""
+meMA.Ode4C232.incipit = ""
+meMA.Ode4C232.text=""
+meMA.Ode4C233.incipit = ""
+meMA.Ode4C233.text=""
+meMA.Ode4C234.incipit = ""
+meMA.Ode4C234.text=""
+meMA.Ode4C235.incipit = ""
+meMA.Ode4C235.text=""
+
+meMA.Ode5C1H.ode=misc_en_UK_notes.lash.Ode5
+meMA.Ode5C1H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode5C1H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode5C1H.incipit = he.h.m2_en_UK_notes.lash.IisousOZoisArchigos.incipit
+meMA.Ode5C1H.text=he.h.m2_en_UK_notes.lash.IisousOZoisArchigos.text
+
+meMA.Ode5C11.ode=misc_en_UK_notes.lash.Ode5
+meMA.Ode5C11.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode5C11.melody=he.h.m2_en_UK_notes.lash.IisousOZoisArchigos.name
+meMA.Ode5C11.incipit = ""
+meMA.Ode5C11.text=""
+
+meMA.Ode5C12.ode=misc_en_UK_notes.lash.Ode5
+meMA.Ode5C12.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode5C12.melody=he.h.m2_en_UK_notes.lash.IisousOZoisArchigos.name
+meMA.Ode5C12.incipit = ""
+meMA.Ode5C12.text=""
+
+meMA.Ode5C2H.ode=misc_en_UK_notes.lash.Ode5
+meMA.Ode5C2H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode5C2H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode5C2H.incipit = he.h.m2_en_UK_notes.lash.EchthrouZofodous.incipit
+meMA.Ode5C2H.text=he.h.m2_en_UK_notes.lash.EchthrouZofodous.text
+meMA.Ode5C2H1.incipit = he.h.m2_en_UK_notes.lash.EchthrouZofodous1.incipit
+meMA.Ode5C2H1.text=he.h.m2_en_UK_notes.lash.EchthrouZofodous1.text
+meMA.Ode5C2H2.incipit = he.h.m2_en_UK_notes.lash.EchthrouZofodous2.incipit
+meMA.Ode5C2H2.text=he.h.m2_en_UK_notes.lash.EchthrouZofodous2.text
+meMA.Ode5C2H3.incipit = he.h.m2_en_UK_notes.lash.EchthrouZofodous3.incipit
+meMA.Ode5C2H3.text=he.h.m2_en_UK_notes.lash.EchthrouZofodous3.text
+meMA.Ode5C2H4.incipit = he.h.m2_en_UK_notes.lash.EchthrouZofodous4.incipit
+meMA.Ode5C2H4.text=he.h.m2_en_UK_notes.lash.EchthrouZofodous4.text
+meMA.Ode5C2H5.incipit = he.h.m2_en_UK_notes.lash.EchthrouZofodous5.incipit
+meMA.Ode5C2H5.text=he.h.m2_en_UK_notes.lash.EchthrouZofodous5.text
+
+meMA.Ode5C21.ode=misc_en_UK_notes.lash.Ode5
+meMA.Ode5C21.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode5C21.melody=he.h.m2_en_UK_notes.lash.EchthrouZofodous.name
+meMA.Ode5C21.incipit = ""
+meMA.Ode5C21.text=""
+meMA.Ode5C211.incipit = ""
+meMA.Ode5C211.text=""
+meMA.Ode5C212.incipit = ""
+meMA.Ode5C212.text=""
+meMA.Ode5C213.incipit = ""
+meMA.Ode5C213.text=""
+meMA.Ode5C214.incipit = ""
+meMA.Ode5C214.text=""
+meMA.Ode5C215.incipit = ""
+meMA.Ode5C215.text=""
+
+meMA.Ode5C22.ode=misc_en_UK_notes.lash.Ode5
+meMA.Ode5C22.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode5C22.melody=he.h.m2_en_UK_notes.lash.EchthrouZofodous.name
+meMA.Ode5C22.incipit = ""
+meMA.Ode5C22.text=""
+meMA.Ode5C221.incipit = ""
+meMA.Ode5C221.text=""
+meMA.Ode5C222.incipit = ""
+meMA.Ode5C222.text=""
+meMA.Ode5C223.incipit = ""
+meMA.Ode5C223.text=""
+meMA.Ode5C224.incipit = ""
+meMA.Ode5C224.text=""
+meMA.Ode5C225.incipit = ""
+meMA.Ode5C225.text=""
+
+meMA.Ode6C1H.ode=misc_en_UK_notes.lash.Ode6
+meMA.Ode6C1H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode6C1H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode6C1H.incipit = he.h.m2_en_UK_notes.lash.IFoniTouLogou.incipit
+meMA.Ode6C1H.text=he.h.m2_en_UK_notes.lash.IFoniTouLogou.text
+
+meMA.Ode6C11.ode=misc_en_UK_notes.lash.Ode6
+meMA.Ode6C11.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode6C11.melody=he.h.m2_en_UK_notes.lash.IFoniTouLogou.name
+meMA.Ode6C11.incipit = ""
+meMA.Ode6C11.text=""
+
+meMA.Ode6C12.ode=misc_en_UK_notes.lash.Ode6
+meMA.Ode6C12.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode6C12.melody=he.h.m2_en_UK_notes.lash.IFoniTouLogou.name
+meMA.Ode6C12.incipit = ""
+meMA.Ode6C12.text=""
+
+meMA.Ode6C2H.ode=misc_en_UK_notes.lash.Ode6
+meMA.Ode6C2H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode6C2H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode6C2H.incipit = he.h.m2_en_UK_notes.lash.ImertonExefine.incipit
+meMA.Ode6C2H.text=he.h.m2_en_UK_notes.lash.ImertonExefine.text
+meMA.Ode6C2H1.incipit = he.h.m2_en_UK_notes.lash.ImertonExefine1.incipit
+meMA.Ode6C2H1.text=he.h.m2_en_UK_notes.lash.ImertonExefine1.text
+meMA.Ode6C2H2.incipit = he.h.m2_en_UK_notes.lash.ImertonExefine2.incipit
+meMA.Ode6C2H2.text=he.h.m2_en_UK_notes.lash.ImertonExefine2.text
+meMA.Ode6C2H3.incipit = he.h.m2_en_UK_notes.lash.ImertonExefine3.incipit
+meMA.Ode6C2H3.text=he.h.m2_en_UK_notes.lash.ImertonExefine3.text
+meMA.Ode6C2H4.incipit = he.h.m2_en_UK_notes.lash.ImertonExefine4.incipit
+meMA.Ode6C2H4.text=he.h.m2_en_UK_notes.lash.ImertonExefine4.text
+meMA.Ode6C2H5.incipit = he.h.m2_en_UK_notes.lash.ImertonExefine5.incipit
+meMA.Ode6C2H5.text=he.h.m2_en_UK_notes.lash.ImertonExefine5.text
+
+meMA.Ode6C21.ode=misc_en_UK_notes.lash.Ode6
+meMA.Ode6C21.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode6C21.melody =""
+meMA.Ode6C21.incipit = ""
+meMA.Ode6C21.text=""
+meMA.Ode6C211.incipit = ""
+meMA.Ode6C211.text=""
+meMA.Ode6C212.incipit = ""
+meMA.Ode6C212.text=""
+meMA.Ode6C213.incipit = ""
+meMA.Ode6C213.text=""
+meMA.Ode6C214.incipit = ""
+meMA.Ode6C214.text=""
+meMA.Ode6C215.incipit = ""
+meMA.Ode6C215.text=""
+
+meMA.Ode6C22.ode=misc_en_UK_notes.lash.Ode6
+meMA.Ode6C22.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode6C22.melody =""
+meMA.Ode6C22.incipit = ""
+meMA.Ode6C22.text=""
+meMA.Ode6C221.incipit = ""
+meMA.Ode6C221.text=""
+meMA.Ode6C222.incipit = ""
+meMA.Ode6C222.text=""
+meMA.Ode6C223.incipit = ""
+meMA.Ode6C223.text=""
+meMA.Ode6C224.incipit = ""
+meMA.Ode6C224.text=""
+meMA.Ode6C225.incipit = ""
+meMA.Ode6C225.text=""
+
+meMA.Kontakion1.poet=poets_en_UK_notes.lash.RomanouTouMelodou
+meMA.Kontakion1.mode=misc_en_UK_notes.lash.Mode4
+meMA.Kontakion1.melody=misc_en_UK_notes.lash.Automelon
+meMA.Kontakion1.incipit = he.a.m4_en_UK_notes.lash.EpefanisSimeron.incipit
+meMA.Kontakion1.text=he.a.m4_en_UK_notes.lash.EpefanisSimeron.text
+
+meMA.Oikos1.text=""
+
+meMA.Synaxarion.text =""
+
+meMA.Ode7C1H.ode=misc_en_UK_notes.lash.Ode7
+meMA.Ode7C1H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode7C1H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode7C1H.incipit = he.h.m2_en_UK_notes.lash.NeousEfseveis.incipit
+meMA.Ode7C1H.text=he.h.m2_en_UK_notes.lash.NeousEfseveis.text
+
+meMA.Ode7C11.ode=misc_en_UK_notes.lash.Ode7
+meMA.Ode7C11.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode7C11.melody=he.h.m2_en_UK_notes.lash.NeousEfseveis.name
+meMA.Ode7C11.incipit = ""
+meMA.Ode7C11.text=""
+
+meMA.Ode7C12.ode=misc_en_UK_notes.lash.Ode7
+meMA.Ode7C12.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode7C12.melody=he.h.m2_en_UK_notes.lash.NeousEfseveis.name
+meMA.Ode7C12.incipit = ""
+meMA.Ode7C12.text=""
+
+meMA.Ode7C13.ode=misc_en_UK_notes.lash.Ode7
+meMA.Ode7C13.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode7C13.melody=he.h.m2_en_UK_notes.lash.NeousEfseveis.name
+meMA.Ode7C13.incipit = ""
+meMA.Ode7C13.text=""
+
+meMA.Ode7C2H.ode=misc_en_UK_notes.lash.Ode7
+meMA.Ode7C2H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode7C2H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode7C2H.incipit = he.h.m2_en_UK_notes.lash.EflexeReithro.incipit
+meMA.Ode7C2H.text=he.h.m2_en_UK_notes.lash.EflexeReithro.text
+meMA.Ode7C2H1.incipit = he.h.m2_en_UK_notes.lash.EflexeReithro1.incipit
+meMA.Ode7C2H1.text=he.h.m2_en_UK_notes.lash.EflexeReithro1.text
+meMA.Ode7C2H2.incipit = he.h.m2_en_UK_notes.lash.EflexeReithro2.incipit
+meMA.Ode7C2H2.text=he.h.m2_en_UK_notes.lash.EflexeReithro2.text
+meMA.Ode7C2H3.incipit = he.h.m2_en_UK_notes.lash.EflexeReithro3.incipit
+meMA.Ode7C2H3.text=he.h.m2_en_UK_notes.lash.EflexeReithro3.text
+meMA.Ode7C2H4.incipit = he.h.m2_en_UK_notes.lash.EflexeReithro4.incipit
+meMA.Ode7C2H4.text=he.h.m2_en_UK_notes.lash.EflexeReithro4.text
+meMA.Ode7C2H5.incipit = he.h.m2_en_UK_notes.lash.EflexeReithro5.incipit
+meMA.Ode7C2H5.text=he.h.m2_en_UK_notes.lash.EflexeReithro5.text
+
+meMA.Ode7C21.ode=misc_en_UK_notes.lash.Ode7
+meMA.Ode7C21.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode7C21.melody=he.h.m2_en_UK_notes.lash.EflexeReithro.name
+meMA.Ode7C21.incipit = ""
+meMA.Ode7C21.text=""
+meMA.Ode7C211.incipit = ""
+meMA.Ode7C211.text=""
+meMA.Ode7C212.incipit = ""
+meMA.Ode7C212.text=""
+meMA.Ode7C213.incipit = ""
+meMA.Ode7C213.text=""
+meMA.Ode7C214.incipit = ""
+meMA.Ode7C214.text=""
+meMA.Ode7C215.incipit = ""
+meMA.Ode7C215.text=""
+
+meMA.Ode7C22.ode=misc_en_UK_notes.lash.Ode7
+meMA.Ode7C22.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode7C22.melody=he.h.m2_en_UK_notes.lash.EflexeReithro.name
+meMA.Ode7C22.incipit = ""
+meMA.Ode7C22.text=""
+meMA.Ode7C221.incipit = ""
+meMA.Ode7C221.text=""
+meMA.Ode7C222.incipit = ""
+meMA.Ode7C222.text=""
+meMA.Ode7C223.incipit = ""
+meMA.Ode7C223.text=""
+meMA.Ode7C224.incipit = ""
+meMA.Ode7C224.text=""
+meMA.Ode7C225.incipit = ""
+meMA.Ode7C225.text=""
+
+meMA.Ode7C23.ode=misc_en_UK_notes.lash.Ode7
+meMA.Ode7C23.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode7C23.melody=he.h.m2_en_UK_notes.lash.EflexeReithro.name
+meMA.Ode7C23.incipit = ""
+meMA.Ode7C23.text=""
+meMA.Ode7C231.incipit = ""
+meMA.Ode7C231.text=""
+meMA.Ode7C232.incipit = ""
+meMA.Ode7C232.text=""
+meMA.Ode7C233.incipit = ""
+meMA.Ode7C233.text=""
+meMA.Ode7C234.incipit = ""
+meMA.Ode7C234.text=""
+meMA.Ode7C235.incipit = ""
+meMA.Ode7C235.text=""
+
+meMA.Ode8C1H.ode=misc_en_UK_notes.lash.Ode8
+meMA.Ode8C1H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode8C1H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode8C1H.incipit = he.h.m2_en_UK_notes.lash.MystirionParadoxon.incipit
+meMA.Ode8C1H.text=he.h.m2_en_UK_notes.lash.MystirionParadoxon.text
+
+meMA.Ode8C11.ode=misc_en_UK_notes.lash.Ode8
+meMA.Ode8C11.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode8C11.melody=he.h.m2_en_UK_notes.lash.MystirionParadoxon.name
+meMA.Ode8C11.incipit = ""
+meMA.Ode8C11.text=""
+
+meMA.Ode8C12.ode=misc_en_UK_notes.lash.Ode8
+meMA.Ode8C12.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode8C12.melody=he.h.m2_en_UK_notes.lash.MystirionParadoxon.name
+meMA.Ode8C12.incipit = ""
+meMA.Ode8C12.text=""
+
+meMA.Ode8C13.ode=misc_en_UK_notes.lash.Ode8
+meMA.Ode8C13.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode8C13.melody=he.h.m2_en_UK_notes.lash.MystirionParadoxon.name
+meMA.Ode8C13.incipit = ""
+meMA.Ode8C13.text=""
+
+meMA.Ode8C2H.ode=misc_en_UK_notes.lash.Ode8
+meMA.Ode8C2H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode8C2H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode8C2H.incipit = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis.incipit
+meMA.Ode8C2H.text=he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis.text
+meMA.Ode8C2H1.incipit = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis1.incipit
+meMA.Ode8C2H1.text=he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis1.text
+meMA.Ode8C2H2.incipit = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis2.incipit
+meMA.Ode8C2H2.text=he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis2.text
+meMA.Ode8C2H3.incipit = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis3.incipit
+meMA.Ode8C2H3.text=he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis3.text
+meMA.Ode8C2H4.incipit = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis4.incipit
+meMA.Ode8C2H4.text=he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis4.text
+meMA.Ode8C2H5.incipit = he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis5.incipit
+meMA.Ode8C2H5.text=he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis5.text
+
+meMA.Ode8C21.ode=misc_en_UK_notes.lash.Ode8
+meMA.Ode8C21.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode8C21.melody=he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis.name
+meMA.Ode8C21.incipit = ""
+meMA.Ode8C21.text=""
+meMA.Ode8C211.incipit = ""
+meMA.Ode8C211.text=""
+meMA.Ode8C212.incipit = ""
+meMA.Ode8C212.text=""
+meMA.Ode8C213.incipit = ""
+meMA.Ode8C213.text=""
+meMA.Ode8C214.incipit = ""
+meMA.Ode8C214.text=""
+meMA.Ode8C215.incipit = ""
+meMA.Ode8C215.text=""
+
+meMA.Ode8C22.ode=misc_en_UK_notes.lash.Ode8
+meMA.Ode8C22.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode8C22.melody=he.h.m2_en_UK_notes.lash.EleftheraMenIKtisis.name
+meMA.Ode8C22.incipit = ""
+meMA.Ode8C22.text=""
+meMA.Ode8C221.incipit = ""
+meMA.Ode8C221.text=""
+meMA.Ode8C222.incipit = ""
+meMA.Ode8C222.text=""
+meMA.Ode8C223.incipit = ""
+meMA.Ode8C223.text=""
+meMA.Ode8C224.incipit = ""
+meMA.Ode8C224.text=""
+meMA.Ode8C225.incipit = ""
+meMA.Ode8C225.text=""
+
+meMA.Ode9C1M01.text=""
+meMA.Ode9C1M02.text=""
+meMA.Ode9C1M03.text=""
+meMA.Ode9C1M04.text=""
+meMA.Ode9C1M05.text=""
+meMA.Ode9C1M06.text=""
+meMA.Ode9C1M07.text=""
+
+meMA.Ode9C2M01.text=""
+meMA.Ode9C2M02.text=""
+meMA.Ode9C2M03.text=""
+meMA.Ode9C2M04.text=""
+meMA.Ode9C2M05.text=""
+meMA.Ode9C2M06.text=""
+meMA.Ode9C2MTr.text=""
+meMA.Ode9C2MTh.text=""
+
+meMA.Ode9C1H.ode=misc_en_UK_notes.lash.Ode9
+meMA.Ode9C1H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode9C1H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode9C1H.incipit = he.h.m2_en_UK_notes.lash.AporeiPasaGlossa.incipit
+meMA.Ode9C1H.text=he.h.m2_en_UK_notes.lash.AporeiPasaGlossa.text
+
+meMA.Ode9C11.ode=misc_en_UK_notes.lash.Ode9
+meMA.Ode9C11.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode9C11.melody=he.h.m2_en_UK_notes.lash.AporeiPasaGlossa.name
+meMA.Ode9C11.incipit = ""
+meMA.Ode9C11.text=""
+
+meMA.Ode9C12.ode=misc_en_UK_notes.lash.Ode9
+meMA.Ode9C12.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode9C12.melody=he.h.m2_en_UK_notes.lash.AporeiPasaGlossa.name
+meMA.Ode9C12.incipit = ""
+meMA.Ode9C12.text=""
+
+meMA.Ode9C13.ode=misc_en_UK_notes.lash.Ode9
+meMA.Ode9C13.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode9C13.melody=he.h.m2_en_UK_notes.lash.AporeiPasaGlossa.name
+meMA.Ode9C13.incipit = ""
+meMA.Ode9C13.text=""
+
+meMA.Ode9C2H.ode=misc_en_UK_notes.lash.Ode9
+meMA.Ode9C2H.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode9C2H.melody=misc_en_UK_notes.lash.Heirmos
+meMA.Ode9C2H.incipit = he.h.m2_en_UK_notes.lash.OTonYperNoun.incipit
+meMA.Ode9C2H.text=he.h.m2_en_UK_notes.lash.OTonYperNoun.text
+meMA.Ode9C2H1.incipit = he.h.m2_en_UK_notes.lash.OTonYperNoun1.incipit
+meMA.Ode9C2H1.text=he.h.m2_en_UK_notes.lash.OTonYperNoun1.text
+meMA.Ode9C2H2.incipit = he.h.m2_en_UK_notes.lash.OTonYperNoun2.incipit
+meMA.Ode9C2H2.text=he.h.m2_en_UK_notes.lash.OTonYperNoun2.text
+meMA.Ode9C2H3.incipit = he.h.m2_en_UK_notes.lash.OTonYperNoun3.incipit
+meMA.Ode9C2H3.text=he.h.m2_en_UK_notes.lash.OTonYperNoun3.text
+meMA.Ode9C2H4.incipit = he.h.m2_en_UK_notes.lash.OTonYperNoun4.incipit
+meMA.Ode9C2H4.text=he.h.m2_en_UK_notes.lash.OTonYperNoun4.text
+meMA.Ode9C2H5.incipit = he.h.m2_en_UK_notes.lash.OTonYperNoun5.incipit
+meMA.Ode9C2H5.text=he.h.m2_en_UK_notes.lash.OTonYperNoun5.text
+
+meMA.Ode9C21.ode=misc_en_UK_notes.lash.Ode9
+meMA.Ode9C21.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode9C21.melody=he.h.m2_en_UK_notes.lash.OTonYperNoun.mode
+meMA.Ode9C21.incipit = ""
+meMA.Ode9C21.text=""
+meMA.Ode9C211.incipit = ""
+meMA.Ode9C211.text=""
+meMA.Ode9C212.incipit = ""
+meMA.Ode9C212.text=""
+meMA.Ode9C213.incipit = ""
+meMA.Ode9C213.text=""
+meMA.Ode9C214.incipit = ""
+meMA.Ode9C214.text=""
+meMA.Ode9C215.incipit = ""
+meMA.Ode9C215.text=""
+
+meMA.Ode9C22.ode=misc_en_UK_notes.lash.Ode9
+meMA.Ode9C22.mode=misc_en_UK_notes.lash.Mode2
+meMA.Ode9C22.melody=he.h.m2_en_UK_notes.lash.OTonYperNoun.mode
+meMA.Ode9C22.incipit = ""
+meMA.Ode9C22.text=""
+meMA.Ode9C221.incipit = ""
+meMA.Ode9C221.text=""
+meMA.Ode9C222.incipit = ""
+meMA.Ode9C222.text=""
+meMA.Ode9C223.incipit = ""
+meMA.Ode9C223.text=""
+meMA.Ode9C224.incipit = ""
+meMA.Ode9C224.text=""
+meMA.Ode9C225.incipit = ""
+meMA.Ode9C225.text=""
+
+meMA.Exaposteilarion1.poet =""
+meMA.Exaposteilarion1.mode=misc_en_UK_notes.lash.Mode3
+meMA.Exaposteilarion1.melody=misc_en_UK_notes.lash.Automelon
+meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_notes.lash.EpefaniOSotir.incipit
+meMA.Exaposteilarion1.text=he.a.m3_en_UK_notes.lash.EpefaniOSotir.text
+
+meMA.Lauds1.poet=poets_en_UK_notes.lash.GermanouPatriarchou
+meMA.Lauds1.mode=misc_en_UK_notes.lash.Mode1
+meMA.Lauds1.melody=misc_en_UK_notes.lash.Idiomelon
+meMA.Lauds1.incipit = ""
+meMA.Lauds1.text=""
+
+meMA.Lauds2.mode=misc_en_UK_notes.lash.Mode1
+meMA.Lauds2.melody=misc_en_UK_notes.lash.Idiomelon
+meMA.Lauds2.incipit = ""
+meMA.Lauds2.text=""
+
+meMA.Lauds3.mode=misc_en_UK_notes.lash.Mode1
+meMA.Lauds3.melody=misc_en_UK_notes.lash.Idiomelon
+meMA.Lauds3.incipit = ""
+meMA.Lauds3.text=""
+
+meMA.Lauds4.mode=misc_en_UK_notes.lash.Mode1
+meMA.Lauds4.melody=misc_en_UK_notes.lash.Idiomelon
+meMA.Lauds4.incipit = ""
+meMA.Lauds4.text=""
+
+meMA.Lauds5.poet=poets_en_UK_notes.lash.AndreouIerosolymitou
+meMA.Lauds5.mode=misc_en_UK_notes.lash.Mode1
+meMA.Lauds5.melody=misc_en_UK_notes.lash.Idiomelon
+meMA.Lauds5.incipit = ""
+meMA.Lauds5.text=""
+
+meMA.LaudsGlory.poet=poets_en_UK_notes.lash.Anatoliou
+meMA.LaudsGlory.mode=misc_en_UK_notes.lash.Mode6
+meMA.LaudsGlory.melody=misc_en_UK_notes.lash.Idiomelon
+meMA.LaudsGlory.incipit = ""
+meMA.LaudsGlory.text=""
+
+meMA.LaudsBoth.poet=poets_en_UK_notes.lash.Anatoliou
+meMA.LaudsBoth.mode=misc_en_UK_notes.lash.Mode2
+meMA.LaudsBoth.melody=misc_en_UK_notes.lash.Idiomelon
+meMA.LaudsBoth.incipit = ""
+meMA.LaudsBoth.text=""
 
 //meMA.MM.Lauds1234as5678.text = properties_en_UK_notes.lash.media.key
 
-meLI.Antiphon2.text = ""
+meLI.Antiphon2.text=""
 
-meLI.EntranceHymn.text = ""
+meLI.EntranceHymn.text=""
 
-meLI.TheotokosHymn.mode = misc_en_UK_notes.lash.Mode2
-meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
-meLI.TheotokosHymn.text = meMA.Ode9C1H.text
+meLI.TheotokosHymn.mode=misc_en_UK_notes.lash.Mode2
+meLI.TheotokosHymnVerse.incipit = meMA.Ode9C1M01.incipit
+meLI.TheotokosHymnVerse.text=meMA.Ode9C1M01.text
+meLI.TheotokosHymn.incipit = meMA.Ode9C1H.incipit
+meLI.TheotokosHymn.text=meMA.Ode9C1H.text
 
-meLI.CommunionHymn.text = ""
+meLI.CommunionHymn.text=""
 
-meMegalynarion.text = ""
+meMegalynarion.text=""
 

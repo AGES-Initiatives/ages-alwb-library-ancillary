@@ -1,20 +1,20 @@
-A_Resource_Whose_Name = le.pr.tr.d053_en_UK_notes.lash
+A_Resource_Whose_Name=le.pr.tr.d053_en_UK_notes.lash
 
-lemcVE.reading1.title = ""
-lemcVE.reading1.version = ""
-lemcVE.reading1.book = bible_en_UK_notes.lash.Genesis
-lemcVE.reading1.chapverse = ""
-lemcVE.reading1.text = "[note] and Abram sat: The LXX seems to have understood the Hebrew verb to have been ysb rather than nsb. In an unpointed text, which is of course what the LXX translator would have had, there would in this context be no difference in the spelling of the Hebrew."
+lemcVE.reading1.title=""
+lemcVE.reading1.version=""
+lemcVE.reading1.book=bible_en_UK_notes.lash.Genesis
+lemcVE.reading1.chapverse=""
+lemcVE.reading1.text="[note] and Abram sat: The LXX seems to have understood the Hebrew verb to have been ysb rather than nsb. In an unpointed text, which is of course what the LXX translator would have had, there would in this context be no difference in the spelling of the Hebrew."
 
-lemcVE.reading2.title = ""
-lemcVE.reading2.version = ""
-lemcVE.reading2.book = bible_en_UK_notes.lash.Proverbs
-lemcVE.reading2.chapverse = ""
-lemcVE.reading2.text = ""
+lemcVE.reading2.title=""
+lemcVE.reading2.version=""
+lemcVE.reading2.book=bible_en_UK_notes.lash.Proverbs
+lemcVE.reading2.chapverse=""
+lemcVE.reading2.text=""
 
-lemcTE.reading1.title = ""
-lemcTE.reading1.version = ""
-lemcTE.reading1.book = bible_en_UK_notes.lash.Isaiah
-lemcTE.reading1.chapverse = ""
-lemcTE.reading1.text = ""
+lemcTE.reading1.title=""
+lemcTE.reading1.version=""
+lemcTE.reading1.book=bible_en_UK_notes.lash.Isaiah
+lemcTE.reading1.chapverse=""
+lemcTE.reading1.text=""
 
